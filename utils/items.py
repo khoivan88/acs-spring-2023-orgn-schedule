@@ -9,6 +9,8 @@ class SessionItem(Item):
     track = Field()
     title = Field()
     time_location = Field()
+    location = Field()
+    am_or_pm = Field()
     presiders = Field()
     presentations = Field()
     session_type = Field()

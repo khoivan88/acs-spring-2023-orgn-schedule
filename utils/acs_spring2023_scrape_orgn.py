@@ -14,7 +14,7 @@ from items import SessionItem, PresentationItem
 
 CURRENT_FILEPATH = Path(__file__).resolve().parent
 DATA_FOLDER = CURRENT_FILEPATH.parent / 'src' / '_data'
-SCRAPY_LOG_FILE = CURRENT_FILEPATH.parent / 'scrapy.log'
+SCRAPY_LOG_FILE = CURRENT_FILEPATH / 'scrapy.log'
 DATA_FOLDER.mkdir(exist_ok=True)
 THIS_SPIDER_RESULT_FILE = DATA_FOLDER / 'acs_spring2023_orgn.json'
 # breakpoint()
@@ -74,7 +74,10 @@ class ACSSpring2023Orgn(scrapy.Spider):
             datetime_info = re.sub(r'\s+', ' ', datetime_info)    # Remove extra spaces
             datetime_string, location = datetime_info.split('|')
             datetime_string = datetime_string.strip()
-            location = location.strip()
+            location = re.sub(r'Location:\s+', '', location.strip(), flags=re.IGNORECASE)
+            # location = location.strip()
+            # breakpoint()
+            am_or_pm = re.search('am|pm', datetime_string)[0].upper() if re.search('am|pm', datetime_string) else ''
             # breakpoint()
             # Get the date string and convert to yyyy-mm-ddThh:mm:ss-07:00
             date_string = re.search(r'.*(\b\w+\s+\d\d,\s+2023)', datetime_string)[1]
@@ -83,7 +86,6 @@ class ACSSpring2023Orgn(scrapy.Spider):
             starting_datetime = date_obj.strftime('%Y-%m-%dT%H:%M:%S-07:00')
             starting_date = date_obj.strftime('%Y-%m-%dT00:00:00-07:00')
             starting_time = date_obj.strftime('%H:%M:%S')
-            # breakpoint()
             # date += 'T00:00:00-0700'    # Add timezone for 11ty build
 
             presiders_info = info.css('.session-panel-heading')[1].css('::text').getall()
@@ -129,6 +131,8 @@ class ACSSpring2023Orgn(scrapy.Spider):
                 'starting_time': starting_time,
                 'title': title,
                 'time_location': datetime_info,
+                'location': location,
+                'am_or_pm': am_or_pm,
                 'presiders': presiders,
                 'presentations': presentations,
                 'track': track,
@@ -181,9 +185,9 @@ if __name__ == '__main__':
         },
         'LOG_LEVEL': 'DEBUG',
         'LOG_FILE': SCRAPY_LOG_FILE.relative_to(CURRENT_FILEPATH.parent),
+        'LOG_FILE_APPEND': False,    # overwrite existing log file instead of appending
         # 'ROBOTSTXT_OBEY': False,
     }
-
     process = CrawlerProcess(settings=settings)
     process.crawl(ACSSpring2023Orgn)
     process.start()

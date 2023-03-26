@@ -57,7 +57,7 @@ jobs:
           pip install -r ./utils/requirements.txt
       - name: Update Session List
         run: |
-          python ./utils/acs-spring2023-scrape-orgn.py
+          python ./utils/acs_spring2023_scrape_orgn.py
       - name: Commit reports if exist
         run: |
           echo ${{ github.ref }}
