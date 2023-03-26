@@ -1,7 +1,7 @@
 {
-  "name": "acs-spring-2022-schedule-scraping",
+  "name": "acs-spring-2023-schedule-scraping",
   "version": "1.0.0",
-  "description": "List presentations in Organic Division tracks during ACS Spring 2022 with zoom links.",
+  "description": "List presentations in Organic Division tracks during ACS Spring 2023 with zoom links.",
   "scripts": {
     "clean": "rimraf _site",
     "serve": "serve --no-clipboard --listen 8080 dist",
