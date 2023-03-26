@@ -4,7 +4,7 @@ layout: 'layouts/base.html'
 
 <div class="container prose lg:prose-lg xl:prose-xl max-w-6xl mx-auto" x-data="{expand: false }">
 
-    <button @click="expand = !expand" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded center">Toggle Session/Presentation Details</button>
+    <button @click="expand = !expand" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded center">Toggle Presentations Details</button>
     {%- assign dates = acs_spring2023_orgn | map: "starting_datetime" | uniq | sort -%}
     <!-- {%- assign dates = futureSessions | map: "starting_datetime" | uniq | sort -%} -->
 
@@ -18,7 +18,7 @@ layout: 'layouts/base.html'
                 <div class="session">
                     <!-- <p>{{ session.date | date: '%a, %b %d, %Y' }}</p> -->
                     <h3>Session: {{ session.title }}</h3>
-                    <details :open="expand">
+                    <details open>
                         <summary>Details:</summary>
                         <p>Time: <span style="color: red;">{{ session.time_location }}</span></p>
                         {%- if session.presiders.size > 0 -%}<p>Presiders: {{ session.presiders | join: ", "}}</p>{%- endif -%}
