@@ -14,10 +14,16 @@ from items import SessionItem, PresentationItem
 
 CURRENT_FILEPATH = Path(__file__).resolve().parent
 DATA_FOLDER = CURRENT_FILEPATH.parent / 'src' / '_data'
+SCRAPY_LOG_FILE = CURRENT_FILEPATH.parent / 'scrapy.log'
 DATA_FOLDER.mkdir(exist_ok=True)
 THIS_SPIDER_RESULT_FILE = DATA_FOLDER / 'acs_spring2023_orgn.json'
+# breakpoint()
 # THIS_SPIDER_RESULT_FILE.touch()
 
+
+INCLUDED_DIVISIONS = [
+    'ORGN',
+]
 
 def convert_date(date_str: str) -> str:
     date = datetime.strptime(date_str, '%Y-%m-%d')
@@ -31,7 +37,9 @@ class ACSSpring2023Orgn(scrapy.Spider):
     dates = [convert_date(date) for date in dates]
     name = 'asc-spring2023-orgn'
     allowed_domains = ['acs.digitellinc.com']
-    start_urls = [furl(f'https://acs.digitellinc.com/acs/live/29/page/940/1?eventSearchInput=&eventSearchDateTimeStart={date}+12%3A00+AM&eventSearchDateTimeEnd=&eventSearchTrack%5B%5D=171').url
+    # start_urls = [furl(f'https://acs.digitellinc.com/acs/live/29/page/940/1?eventSearchInput=&eventSearchDateTimeStart={date}+12%3A00+AM&eventSearchDateTimeEnd=&eventSearchTrack%5B%5D=171').url
+    #               for date in dates]
+    start_urls = [furl(f'https://acs.digitellinc.com/acs/live/29/page/940/1?eventSearchInput=&eventSearchDateTimeStart={date}+12%3A00+AM&eventSearchDateTimeEnd=').url
                   for date in dates]
     base_url = 'https://acs.digitellinc.com/'
     # handle_httpstatus_list = [301, 302]
@@ -48,9 +56,19 @@ class ACSSpring2023Orgn(scrapy.Spider):
 
         for session in sessions:
             session_id = session.css('.panel-heading').xpath('@id').get()
+            # breakpoint()
             id_num = re.search(r'\D*(\d+)', session_id)
             zoom_link = f'https://acs.digitellinc.com/acs/events/{id_num[1]}/attend'
             info = session.css('.panel-heading .panel-title .session-panel-title')
+            # Only include some specific tracks
+            # breakpoint()
+            track = ''.join(info.css('.session-panel-heading')[2].css('::text').getall()).strip()
+            if all(
+                division.lower() not in track.lower()
+                for division in INCLUDED_DIVISIONS
+            ):
+                continue
+
             title = info.css('a::text').get().strip()
             datetime_info = ' '.join(info.css('.session-panel-heading')[0].css('::text').getall()).strip()
             datetime_info = re.sub(r'\s+', ' ', datetime_info)    # Remove extra spaces
@@ -147,7 +165,8 @@ if __name__ == '__main__':
             # },
         # 'FEEDS': {'data.json': {'format': 'json'}},
         'FEEDS': {
-            Path(THIS_SPIDER_RESULT_FILE): {
+            THIS_SPIDER_RESULT_FILE.relative_to(CURRENT_FILEPATH.parent): {    # fix for running on Windows
+            # THIS_SPIDER_RESULT_FILE.as_uri(): {
                 'format': 'json',
                 'encoding': 'utf8',
                 'indent': 2,
@@ -160,8 +179,8 @@ if __name__ == '__main__':
                 },
             },
         },
-        # 'LOG_LEVEL': 'DEBUG',
-        'LOG_FILE': 'log.log',
+        'LOG_LEVEL': 'DEBUG',
+        'LOG_FILE': SCRAPY_LOG_FILE.relative_to(CURRENT_FILEPATH.parent),
         # 'ROBOTSTXT_OBEY': False,
     }
 
