@@ -44,7 +44,7 @@ class ACSSpring2023Orgn(scrapy.Spider):
         # Get all the sessions listing
         # sessions = response.css('.panel.panel-default.panel-session')
         # sessions = response.xpath('//div[@id="event-content"]/div/div[contains(@class, "panel") and contains(@class, "panel-default") and contains(@class, "panel-session")]')
-        sessions = response.xpath('//div[contains(@class, "panel") and contains(@class, "panel-default") and contains(@class, "panel-session")]')
+        sessions = response.xpath('//div[contains(@class, "panel") and contains(@class, "panel-default") and contains(@class, "panel-session") and not(parent::*[contains(@class,"panel-body")])]')
 
         for session in sessions:
             session_id = session.css('.panel-heading').xpath('@id').get()
