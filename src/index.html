@@ -1,0 +1,64 @@
+---
+layout: 'layouts/base.html'
+---
+
+<div class="container prose lg:prose-lg xl:prose-xl max-w-6xl mx-auto">
+
+    <!-- <button @click="open = false">Close All Presentations Details</button> -->
+    {%- assign dates = futureSessions | map: "starting_datetime" | uniq | sort -%}
+
+    {%- for date in dates -%}
+    <div class="max-w-screen-2xl mx-auto px-4 lg:px-0">
+        <h2 x-data="{date: new Date($el.innerText)}" x-text="date.toLocaleString(undefined, { weekday: 'short', year: 'numeric', month: 'short', day: '2-digit', hour: '2-digit', minute: '2-digit'})" style="color: blue;">{{ date }}</h2>
+        {%- assign sessions_by_date = futureSessions | datetime_filter: date -%}
+            {%- for session in sessions_by_date -%}
+                <div class="session">
+                    <!-- <p>{{ session.date | date: '%a, %b %d, %Y' }}</p> -->
+                    <h3>Session: {{ session.title }}</h3>
+                    <details open>
+                        <summary>Details:</summary>
+                        <p>Time: <span style="color: red;">{{ session.time_location }}</span></p>
+                        {%- if session.presiders.size > 0 -%}<p>Presiders: {{ session.presiders | join: ", "}}</p>{%- endif -%}
+                        {%- if session.zoom_link -%}
+                        <p>Zoom link (please sign in before clicking on the following link):
+                            <a href="{{ session.zoom_link }}" target="_blank" rel="noopener noreferrer" style="color: blue;">Attend session</a>
+                        </p>
+                        {%- endif -%}
+                        <p>Track: {{ session.track }}</p>
+                        <p>{{ session.session_type }}</p>
+                        {% if session.presentations.size > 0 %}
+                        <div class="presentations" x-show="open">
+                            <details open>
+                                <summary>Presentations: </summary>
+                                <ol>
+                                    {% for presentation in session.presentations %}
+                                    <li>
+                                        <div class="flex flex-col lg:flex-row justify-between space-x-4">
+                                            <div class="w-full lg:w-3/5 bg-gray-100 px-4">
+                                                <p style="font-weight: bold">{{ presentation.title }}</p>
+                                                {% if presentation.presenters.size > 0 %}<p>Presenter(s): {{ presentation.presenters | join: ", "}}</p>{% endif %}
+                                            </div>
+                                            <div class="w-full lg:w-2/5">
+                                                <p><span class="sr-only">Time: </span>{{ presentation.time_location }}</p>
+                                                {%- if session.zoom_link -%}
+                                                <p><span class="sr-only">Zoom link (please sign in first):</span>
+                                                    <a href="{{ session.zoom_link }}" target="_blank" rel="noopener noreferrer" style="color: blue;">Attend presentation</a>
+                                                </p>
+                                                {%- endif -%}
+                                            </div>
+                                        </div>
+                                    </li>
+                                    {% endfor %}
+                                </ol>
+                            </details>
+
+                        </div>
+                        {%- endif -%}
+                    </details>
+                </div>
+            {% endfor %}
+        <hr>
+    </div>
+    {%- endfor -%}
+</div>
+

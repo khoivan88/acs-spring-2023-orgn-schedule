@@ -1,0 +1,12 @@
+venv*
+_site
+dist
+
+__pycache__
+.vscode
+
+.scrapy
+scrapy_spider
+spider_example.py
+
+node_modules
