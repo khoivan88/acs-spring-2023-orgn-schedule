@@ -1,5 +1,192 @@
 [
-{
+  {
+    "presentations": [{
+        "title": "3803510 - Withdrawn",
+        "time_location": "08:00am - 08:25am USA / Canada - Eastern -",
+        "presenters": [
+          ""
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "3807505 - Iridium-catalysed hydrogen isotope exchange of N-heteroaromatics",
+        "time_location": "08:25am - 08:50am USA / Canada - Eastern -",
+        "presenters": [
+          "Andrew Dalgleish, Presenter",
+          "Ryan Bragg",
+          "Chad Elmore",
+          "David Lindsay",
+          "William Kerr"
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "3818612 - Direct access to symmetrical and unsymmetrical bis-abnormal CCC-NHC pincer complex precursors: C-H activation for bis(azolium) salt synthesis",
+        "time_location": "08:50am - 09:15am USA / Canada - Eastern -",
+        "presenters": [
+          "Alan Cecil, Presenter",
+          "Evans Fosu",
+          "T. Keith Hollis"
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "3820216 - Informatics driven catalyst design towards enhanced iridium(I) catalysts",
+        "time_location": "09:15am - 09:40am USA / Canada - Eastern -",
+        "presenters": [
+          "Paul Mulrainey, Presenter",
+          "William Kerr",
+          "David Lindsay",
+          "Laura Paterson",
+          "Richard Horan"
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "Intermission",
+        "time_location": "09:40am - 09:55am USA / Canada - Eastern -",
+        "presenters": [
+          ""
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "3817824 - Metal catalyst-free photo-induced remote C(sp3)-H borylation of N-oxalateamides",
+        "time_location": "09:55am - 10:20am USA / Canada - Eastern -",
+        "presenters": [
+          "jiachen he, Presenter"
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "3820201 - New approaches in iridium catalysis for sp3 hydrogen isotope exchange (HIE) of amino acids and peptides",
+        "time_location": "10:20am - 10:45am USA / Canada - Eastern -",
+        "presenters": [
+          "Megan Cuthbert, Presenter",
+          "David Lindsay",
+          "William Kerr",
+          "Sumei Ren",
+          "Neil Strotman"
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      },
+      {
+        "title": "3805999 - Single-step access to PROTACs via late-stage C-H amidation",
+        "time_location": "10:45am - 11:10am USA / Canada - Eastern -",
+        "presenters": [
+          "Daniele Antermite, Presenter",
+          "Stig Friis",
+          "Johan Johansson",
+          "Magnus Johansson",
+          "Lutz Ackermann"
+        ],
+        "session_type": "Session Type: Oral - In-person"
+      }
+    ],
+    "presiders": [
+      "Emily McLaughlin, Organizer, Presider",
+      "Steven Silverman, Organizer, Presider",
+      "Megan Cuthbert, Presider"
+    ],
+    "session_type": "Session Type: Oral - In-person",
+    "starting_date": "2023-03-26T00:00:00-07:00",
+    "starting_datetime": "2023-03-26T08:00:00-07:00",
+    "starting_time": "08:00:00",
+    "time_location": "08:00am - 11:35am USA / Canada - Eastern - March 26, 2023 | Location: Room 202 (Indiana Convention Center)",
+    "title": "C-H Activation:",
+    "track": "[ORGN] Division of Organic Chemistry",
+    "zoom_link": null
+  },
+  {
+    "presentations": [{
+        "title": "Introductory Remarks",
+        "time_location": "08:00am - 08:05am USA / Canada - Eastern -",
+        "presenters": [
+          ""
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "3826170 - Elective ‘sophomore’ organic synthesis CURE evolves and endures",
+        "time_location": "08:05am - 08:35am USA / Canada - Eastern -",
+        "presenters": [
+          "Traci Smith, Presenter",
+          "Jason Gillmore, Presenter"
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "3821313 - Organic laboratory CURE in synthetic method development",
+        "time_location": "08:35am - 09:05am USA / Canada - Eastern -",
+        "presenters": [
+          "Sadie Otte, Presenter"
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "3809306 - Organic chemistry CURE for any course",
+        "time_location": "09:05am - 09:35am USA / Canada - Eastern -",
+        "presenters": [
+          "Laura Brown, Presenter"
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "Intermission",
+        "time_location": "09:35am - 09:50am USA / Canada - Eastern -",
+        "presenters": [
+          ""
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "3817681 - Distributed Drug Discovery (D3): Teaching global undergraduates chemistry and biology while they seek treatments for Pseudomonas aeruginosa infections and Covid-19",
+        "time_location": "09:50am - 10:20am USA / Canada - Eastern -",
+        "presenters": [
+          "William Scott, Presenter",
+          "Martin O'Donnell",
+          "Jack Samaritoni"
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "3849459 - Translating the practice of organic chemistry research to foster future scientists & innovators",
+        "time_location": "10:20am - 10:50am USA / Canada - Eastern -",
+        "presenters": [
+          "Elizabeth Ilardi, Presenter"
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      },
+      {
+        "title": "3849455 - Balancing pedagogical and research goals in the context of course-based undergraduate research experiences",
+        "time_location": "10:50am - 11:50am USA / Canada - Eastern -",
+        "presenters": [
+          "Sara Brownell, Presenter"
+        ],
+        "session_type": "Session Type: Oral - Hybrid",
+        "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+      }
+    ],
+    "presiders": [
+      "Laura Brown, Organizer, Presider"
+    ],
+    "session_type": "Session Type: Oral - Hybrid",
+    "starting_date": "2023-03-26T00:00:00-07:00",
+    "starting_datetime": "2023-03-26T08:00:00-07:00",
+    "starting_time": "08:00:00",
+    "time_location": "08:00am - 11:50am USA / Canada - Eastern - March 26, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
+    "title": "Organic Chemistry at the Crossroads of Research & Education:",
+    "track": "[ORGN] Division of Organic Chemistry",
+    "zoom_link": "https://acs.digitellinc.com/acs/events/493521/attend"
+  },
+  {
   "presentations": [
     {
       "title": "Introductory Remarks",
@@ -75,7 +262,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:20pm USA / Canada - Eastern - March 26, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
   "title": "Ernest Guenther Award in the Chemistry of Natural Products:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492730/attend"
 },
 {
@@ -156,7 +343,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:50pm USA / Canada - Eastern - March 26, 2023 | Location: Room 207 (Indiana Convention Center)",
   "title": "Taking Catalysis Up a Notch: Advances in Base Metal Catalysis:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492832/attend"
 },
 {
@@ -248,7 +435,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 26, 2023 | Location: Room 202 (Indiana Convention Center)",
   "title": "C-H Activation:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -377,7 +564,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:35pm USA / Canada - Eastern - March 26, 2023 | Location: Room 203 (Indiana Convention Center)",
   "title": "Cross Coupling Reactions:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -461,7 +648,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 04:45pm USA / Canada - Eastern - March 26, 2023 | Location: Room 204 (Indiana Convention Center)",
   "title": "Flow Chemistry & Continuous Processes:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -604,7 +791,404 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:50pm USA / Canada - Eastern - March 26, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "Heterocycles & Aromatics:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3805616 - Cobalt-complexed acetylenic tetrads and hexads: Ionic-ionic and radical-ionic designs | Poster Board #341",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Julyssa Renteria, Presenter",
+        "Alique Tokatlian, Presenter",
+        "Gagik Melikyan"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3807934 - Insight into the chemistry of η2-coordinated phenyl sulfones | Poster Board #331",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Louis Diment, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3810830 - Phenylisonitrile ligand synthesis and coordination to cobalt to form a catalyst for the dimerization of linear alpha olefins | Poster Board #458",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Colleen McAloon, Presenter",
+        "Richard Broene"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3819522 - Phenols and alkyl halides as coupling partners in copper-catalyzed benzothiazoles syntheses | Poster Board #343",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Annika Bleeke, Presenter",
+        "Macy Deckert",
+        "Sebastien Laulhe"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3820032 - Studies of the cobalt boride-mediated conversion of nitriles to alcohols | Poster Board #333",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Cliff Baker, Presenter",
+        "Vito Liu, Presenter",
+        "Jason Pflueger, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3820296 - Gold(I)-catalyzed haloalkynylation of substituted acetylenes | Poster Board #335",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Alyssa Daniels, Presenter",
+        "Gebhard Haberhauer"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822588 - Parham cyclization chemistry with 1,2-cyclohexanedione | Poster Board #337",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Daniel Canales, Presenter",
+        "David Hunt"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822607 - Organolithium chemistry using dichloromethane as solvent | Poster Board #339",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mary Spireas, Presenter",
+        "David Hunt"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822890 - Applied dearomatization of pyridine: Synthesis of tetrahydropyridine isotopologues and isotopomers | Poster Board #345",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jonathan Dabbs, Presenter",
+        "W. Dean Harman",
+        "Brooks Pate"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828168 - Improved synthesis of the amine fragment of FR901464 and thailanstatins through the development of a convenient N-detosylation method | Poster Board #347",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jacob Beard, Presenter",
+        "Joseph Emerson",
+        "Alexander Jacobs",
+        "Andrew O’Grady",
+        "James Burrows",
+        "Kazunori Koide"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828588 - Synthesis, characterization and catalytic activity of encapsulated iridium nanoparticles in halloysite (Ir@Hal) | Poster Board #349",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Brooke Diehl, Presenter",
+        "Jumanah Hamdi",
+        "Mark Trudell"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    }
+  ],
+  "presiders": [
+    "Scott Bagley, Organizer",
+    "Emily McLaughlin, Organizer"
+  ],
+  "session_type": "Session Type: Poster - In-person",
+  "starting_date": "2023-03-26T00:00:00-07:00",
+  "starting_datetime": "2023-03-26T19:00:00-07:00",
+  "starting_time": "19:00:00",
+  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
+  "title": "Metal-Mediated Reactions & Syntheses:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3802540 - Studies towards the total synthesis of griseoviridin: Approaches towards the preparation of the 9-membered lactone core | Poster Board #351",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Alexandre Perera, Presenter",
+        "Carolina Caso",
+        "Karl-Heinz Altmann"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3804493 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3814987 - Chiral pool approach to the asymmetric synthesis of abyssomicin C | Poster Board #355",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Allie Guerra, Presenter",
+        "Nicholas Onuska",
+        "Thane Jones",
+        "Joshua Pierce"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3815929 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3816477 - Progress toward the total synthesis of laureacetal C | Poster Board #357",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Adam Pickett, Presenter",
+        "David Williams"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3816698 - Control of remote stereogenic centers in bastimolide and analogs | Poster Board #359",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Gregory Friestad, Presenter",
+        "Lucas Howell",
+        "Jacob Hackbarth",
+        "Jeffrey Abraham"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3818454 - Progress towards the total synthesis of (−)-quinine | Poster Board #338",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Hieu Nguyen, Presenter",
+        "Yunxiang Fu",
+        "Kevin Robb"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3819757 - Stereoselective synthesis of (+)- and (-)-cananodine | Poster Board #330",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Haley Holliday, Presenter",
+        "Kendelyn Bone",
+        "Rhemrose Sabio",
+        "James Vyvyan"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3819850 - Total synthesis of (+)-napyradiomycin A1 via catalytic asymmetric halofunctionalization | Poster Board #249",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Behrad Masoudi, Presenter",
+        "Saeedeh Torabi Kohlbouni",
+        "Nastaran Salehi Marzijarani",
+        "Arvind Jaganathan",
+        "Olivia Diakantonis",
+        "Babak Borhan"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3821376 - Approach to polyhydroxylated indolizidine synthesis | Poster Board #334",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Ludimira Ribeiro-Silveira, Presenter",
+        "Louis Liotta, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3821641 - Towards the total synthesis of obtusallene V and VI | Poster Board #251",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Thomas Reason, Presenter",
+        "Mehdi Moemeni",
+        "Ankush Chakraborty",
+        "Mitchell Maday",
+        "Babak Borhan"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3821682 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3821692 - Asymmetric total synthesis of pyrenolide D through “Pd-Au” cascade lactonization and spirocyclization reaction: Adventitious photoisomerization method to synthesis naturally occurring γ-(Z)/(E)-alkylidenebutenolides through bimetallic cascade cycliza | Poster Board #340",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "SHRESTHA CHATTERJEE, Presenter",
+        "Samik Nanda"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822709 - Lagunamide C: Synthetic efforts towards the polyketide moiety | Poster Board #342",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Kalyn Koons, Presenter",
+        "Shashika Perera",
+        "Anthony Fatino",
+        "Ryan Rafferty"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3823428 - Total synthesis of (+)–eburnamonine through a Pd-catalyzed asymmetric cyanoamidation reaction | Poster Board #344",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "KARAN GILL, Presenter",
+        "Serena DiLiberti",
+        "Sadie Otte",
+        "Matt Eastwood",
+        "Christopher Douglas"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3823533 - Synthesis of neuroprotective limonoids and analogs | Poster Board #245",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Emmanuel Bonsu, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3824240 - Progress towards the total synthesis of grayanotoxin | Poster Board #346",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Rupak Kharel, Presenter",
+        "Jeffrey Mighion"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3824461 - Asymmetric total synthesis of (–)-agelastatin A | Poster Board #255",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mitchell Maday, Presenter",
+        "Emily Dzurka",
+        "Hadi Gholami",
+        "Stina Hench",
+        "Babak Borhan"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3824672 - Diverse total syntheses of 5-HT receptor agonists: Ergot, clavine, and unnatural alkaloids | Poster Board #348",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nikhil Tasker, Presenter",
+        "Peter Wipf"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3825280 - Synthesis of 2-deoxyglycoside containing cardiotonic steroids oleandrin and beaumontoside | Poster Board #350",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nolan Carney, Presenter",
+        "Zachary Fejedelem",
+        "Natasha Perry",
+        "Pavel Nagorny"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3826202 - Synthesis, isolation and structural modification of didesmethylrocaglamide: A biologically active flavagline natural product with promising anticancer activity | Poster Board #352",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nicole Benson, Presenter",
+        "Tyler Wilson",
+        "Garima Agarwal",
+        "Elizabeth Kaweesa",
+        "Joanna Burdette",
+        "Alan Kinghorn",
+        "James Fuchs"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3826433 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3826515 - Progress toward the total synthesis of pilosanone c | Poster Board #247",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jacob Desmond, Presenter",
+        "David Williams"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3826584 - Synthesis of aminovinylcysteine-containing model system macrocycle of thioviridamide | Poster Board #356",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Joseph Watts, Presenter",
+        "Sam Mansfield",
+        "Steven Castle"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3827336 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828759 - Synthesis and degradation of aliphatic poly(ester carbonate) copolymers using novel chloroformates | Poster Board #259",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mahrokh Moradi, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    }
+  ],
+  "presiders": [
+    "Scott Bagley, Organizer",
+    "Emily McLaughlin, Organizer"
+  ],
+  "session_type": "Session Type: Poster - In-person",
+  "starting_date": "2023-03-26T00:00:00-07:00",
+  "starting_datetime": "2023-03-26T19:00:00-07:00",
+  "starting_time": "19:00:00",
+  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
+  "title": "Total Synthesis of Complex Molecules:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -737,7 +1321,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Biocatalysis and Biologically-Related Processes:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -781,7 +1365,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "C-H Activation:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -1146,594 +1730,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Heterocycles & Aromatics:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3805616 - Cobalt-complexed acetylenic tetrads and hexads: Ionic-ionic and radical-ionic designs | Poster Board #341",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Julyssa Renteria, Presenter",
-        "Alique Tokatlian, Presenter",
-        "Gagik Melikyan"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3807934 - Insight into the chemistry of η2-coordinated phenyl sulfones | Poster Board #331",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Louis Diment, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3810830 - Phenylisonitrile ligand synthesis and coordination to cobalt to form a catalyst for the dimerization of linear alpha olefins | Poster Board #458",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Colleen McAloon, Presenter",
-        "Richard Broene"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3819522 - Phenols and alkyl halides as coupling partners in copper-catalyzed benzothiazoles syntheses | Poster Board #343",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Annika Bleeke, Presenter",
-        "Macy Deckert",
-        "Sebastien Laulhe"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3820032 - Studies of the cobalt boride-mediated conversion of nitriles to alcohols | Poster Board #333",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Cliff Baker, Presenter",
-        "Vito Liu, Presenter",
-        "Jason Pflueger, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3820296 - Gold(I)-catalyzed haloalkynylation of substituted acetylenes | Poster Board #335",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Alyssa Daniels, Presenter",
-        "Gebhard Haberhauer"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822588 - Parham cyclization chemistry with 1,2-cyclohexanedione | Poster Board #337",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Daniel Canales, Presenter",
-        "David Hunt"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822607 - Organolithium chemistry using dichloromethane as solvent | Poster Board #339",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mary Spireas, Presenter",
-        "David Hunt"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822890 - Applied dearomatization of pyridine: Synthesis of tetrahydropyridine isotopologues and isotopomers | Poster Board #345",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jonathan Dabbs, Presenter",
-        "W. Dean Harman",
-        "Brooks Pate"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828168 - Improved synthesis of the amine fragment of FR901464 and thailanstatins through the development of a convenient N-detosylation method | Poster Board #347",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jacob Beard, Presenter",
-        "Joseph Emerson",
-        "Alexander Jacobs",
-        "Andrew O’Grady",
-        "James Burrows",
-        "Kazunori Koide"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828588 - Synthesis, characterization and catalytic activity of encapsulated iridium nanoparticles in halloysite (Ir@Hal) | Poster Board #349",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Brooke Diehl, Presenter",
-        "Jumanah Hamdi",
-        "Mark Trudell"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    }
-  ],
-  "presiders": [
-    "Scott Bagley, Organizer",
-    "Emily McLaughlin, Organizer"
-  ],
-  "session_type": "Session Type: Poster - In-person",
-  "starting_date": "2023-03-26T00:00:00-07:00",
-  "starting_datetime": "2023-03-26T19:00:00-07:00",
-  "starting_time": "19:00:00",
-  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
-  "title": "Metal-Mediated Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3802540 - Studies towards the total synthesis of griseoviridin: Approaches towards the preparation of the 9-membered lactone core | Poster Board #351",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Alexandre Perera, Presenter",
-        "Carolina Caso",
-        "Karl-Heinz Altmann"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3804493 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3814987 - Chiral pool approach to the asymmetric synthesis of abyssomicin C | Poster Board #355",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Allie Guerra, Presenter",
-        "Nicholas Onuska",
-        "Thane Jones",
-        "Joshua Pierce"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3815929 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3816477 - Progress toward the total synthesis of laureacetal C | Poster Board #357",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Adam Pickett, Presenter",
-        "David Williams"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3816698 - Control of remote stereogenic centers in bastimolide and analogs | Poster Board #359",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Gregory Friestad, Presenter",
-        "Lucas Howell",
-        "Jacob Hackbarth",
-        "Jeffrey Abraham"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3818454 - Progress towards the total synthesis of (−)-quinine | Poster Board #338",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Hieu Nguyen, Presenter",
-        "Yunxiang Fu",
-        "Kevin Robb"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3819757 - Stereoselective synthesis of (+)- and (-)-cananodine | Poster Board #330",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Haley Holliday, Presenter",
-        "Kendelyn Bone",
-        "Rhemrose Sabio",
-        "James Vyvyan"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3819850 - Total synthesis of (+)-napyradiomycin A1 via catalytic asymmetric halofunctionalization | Poster Board #249",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Behrad Masoudi, Presenter",
-        "Saeedeh Torabi Kohlbouni",
-        "Nastaran Salehi Marzijarani",
-        "Arvind Jaganathan",
-        "Olivia Diakantonis",
-        "Babak Borhan"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3821376 - Approach to polyhydroxylated indolizidine synthesis | Poster Board #334",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Ludimira Ribeiro-Silveira, Presenter",
-        "Louis Liotta, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3821641 - Towards the total synthesis of obtusallene V and VI | Poster Board #251",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Thomas Reason, Presenter",
-        "Mehdi Moemeni",
-        "Ankush Chakraborty",
-        "Mitchell Maday",
-        "Babak Borhan"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3821682 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3821692 - Asymmetric total synthesis of pyrenolide D through “Pd-Au” cascade lactonization and spirocyclization reaction: Adventitious photoisomerization method to synthesis naturally occurring γ-(Z)/(E)-alkylidenebutenolides through bimetallic cascade cycliza | Poster Board #340",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "SHRESTHA CHATTERJEE, Presenter",
-        "Samik Nanda"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822709 - Lagunamide C: Synthetic efforts towards the polyketide moiety | Poster Board #342",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Kalyn Koons, Presenter",
-        "Shashika Perera",
-        "Anthony Fatino",
-        "Ryan Rafferty"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3823428 - Total synthesis of (+)–eburnamonine through a Pd-catalyzed asymmetric cyanoamidation reaction | Poster Board #344",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "KARAN GILL, Presenter",
-        "Serena DiLiberti",
-        "Sadie Otte",
-        "Matt Eastwood",
-        "Christopher Douglas"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3823533 - Synthesis of neuroprotective limonoids and analogs | Poster Board #245",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Emmanuel Bonsu, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3824240 - Progress towards the total synthesis of grayanotoxin | Poster Board #346",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Rupak Kharel, Presenter",
-        "Jeffrey Mighion"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3824461 - Asymmetric total synthesis of (–)-agelastatin A | Poster Board #255",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mitchell Maday, Presenter",
-        "Emily Dzurka",
-        "Hadi Gholami",
-        "Stina Hench",
-        "Babak Borhan"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3824672 - Diverse total syntheses of 5-HT receptor agonists: Ergot, clavine, and unnatural alkaloids | Poster Board #348",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nikhil Tasker, Presenter",
-        "Peter Wipf"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3825280 - Synthesis of 2-deoxyglycoside containing cardiotonic steroids oleandrin and beaumontoside | Poster Board #350",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nolan Carney, Presenter",
-        "Zachary Fejedelem",
-        "Natasha Perry",
-        "Pavel Nagorny"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3826202 - Synthesis, isolation and structural modification of didesmethylrocaglamide: A biologically active flavagline natural product with promising anticancer activity | Poster Board #352",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nicole Benson, Presenter",
-        "Tyler Wilson",
-        "Garima Agarwal",
-        "Elizabeth Kaweesa",
-        "Joanna Burdette",
-        "Alan Kinghorn",
-        "James Fuchs"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3826433 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3826515 - Progress toward the total synthesis of pilosanone c | Poster Board #247",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jacob Desmond, Presenter",
-        "David Williams"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3826584 - Synthesis of aminovinylcysteine-containing model system macrocycle of thioviridamide | Poster Board #356",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Joseph Watts, Presenter",
-        "Sam Mansfield",
-        "Steven Castle"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3827336 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828759 - Synthesis and degradation of aliphatic poly(ester carbonate) copolymers using novel chloroformates | Poster Board #259",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mahrokh Moradi, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    }
-  ],
-  "presiders": [
-    "Scott Bagley, Organizer",
-    "Emily McLaughlin, Organizer"
-  ],
-  "session_type": "Session Type: Poster - In-person",
-  "starting_date": "2023-03-26T00:00:00-07:00",
-  "starting_datetime": "2023-03-26T19:00:00-07:00",
-  "starting_time": "19:00:00",
-  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 26, 2023 | Location: Hall F-H (Indiana Convention Center)",
-  "title": "Total Synthesis of Complex Molecules:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3812198 - Synergistic catalysis by Brønsted acid/carbodicarbene mimicking frustrated Lewis pair-like reactivity",
-      "time_location": "08:00am - 08:25am USA / Canada - Eastern -",
-      "presenters": [
-        "Yi-Chen Chan, Presenter",
-        "Wen-Ching Chen",
-        "Glenn Yap",
-        "Lili Zhao",
-        "Hsuan-Ying Chen",
-        "Professor Tiow-Gan Ong"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3820355 - Mechanochemistry in small and big molecules",
-      "time_location": "08:25am - 08:50am USA / Canada - Eastern -",
-      "presenters": [
-        "Charles Diesendruck, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3818852 - Immobilized chiral phosphoric acids: Application for regioselective carbohydrate modifications and enantioselective transfer hydrogenation in-flow",
-      "time_location": "08:50am - 09:15am USA / Canada - Eastern -",
-      "presenters": [
-        "Oleksii Zhelavskyi, Presenter",
-        "Paul Zimmerman",
-        "Pavel Nagorny"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3822130 - (Cyclopentadienone)iron carbonyl-catalyzed alcohol oxidations using furfural as a terminal oxidant",
-      "time_location": "09:15am - 09:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Timothy Funk, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "09:40am - 09:55am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3817403 - Microwave assisted one pot green synthesis of potential MK-2 kinase inhibitor aminocyanopyridine and (4-hydroxy)quinoline and its computational studies",
-      "time_location": "09:55am - 10:20am USA / Canada - Eastern -",
-      "presenters": [
-        "Nishant Verma, Presenter",
-        "loveneesh Kumar",
-        "Ramesh Chandra"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3822410 - Sulfoxylate radical anion mediated one-pot, tandem chemoselective reductive cyclization to the synthesis of pyrrole fused N-heterocycles",
-      "time_location": "10:20am - 10:45am USA / Canada - Eastern -",
-      "presenters": [
-        "Ms surabhi panday, Presenter",
-        "Pankaj Gupta",
-        "Shivraj Seth",
-        "Dr. Joydev Laha"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3827663 - Magical metalloporphyrins: Mirror, mirror on the wall; which is the best porphyrin of them all?",
-      "time_location": "10:45am - 11:10am USA / Canada - Eastern -",
-      "presenters": [
-        "Mukund Chorghade, Presenter",
-        "Rachel Bijoy"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer, Presider",
-    "Steven Silverman, Organizer, Presider",
-    "Daniel Ruff, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-27T00:00:00-07:00",
-  "starting_datetime": "2023-03-27T08:00:00-07:00",
-  "starting_time": "08:00:00",
-  "time_location": "08:00am - 11:10am USA / Canada - Eastern - March 27, 2023 | Location: Room 202 (Indiana Convention Center)",
-  "title": "Green Methods & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3811687 - Withdrawn",
-      "time_location": "08:00am - 08:25am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3816634 - EDTA-based lanthanide (III) chelates with cholamide appendages for luminescence detection of capsaicinoids",
-      "time_location": "08:25am - 08:50am USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Christopher Gulgas, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3812510 - Structural diversity in quasiracemic molecular assemblies",
-      "time_location": "08:50am - 09:15am USA / Canada - Eastern -",
-      "presenters": [
-        "Kraig Wheeler, Presenter",
-        "Katelyn Koch",
-        "Ashah Gould",
-        "Katriel Sahlstrom",
-        "Aaron Teo",
-        "Russell Wells",
-        "Diana Schepens"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3827884 - Separation of chiral molecules using subsitutional solid solutions of binol MOFs.",
-      "time_location": "09:15am - 09:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Kyle Langlois, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3818561 - Diverse nature and effects of environment in anion-π complexes of p-benzoquinones",
-      "time_location": "09:40am - 10:05am USA / Canada - Eastern -",
-      "presenters": [
-        "Sergiy Rosokha, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "10:05am - 10:20am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3819239 - Halogens in hydrophobic spaces: What governs their interactions?",
-      "time_location": "10:20am - 10:45am USA / Canada - Eastern -",
-      "presenters": [
-        "Mark Ams, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3819440 - (Pseudo)halogenated quinones enable deconvolution of overlapping spectra for quantitative chirality sensing of amines, amino acids, and amino alcohols via redox switching",
-      "time_location": "10:45am - 11:10am USA / Canada - Eastern -",
-      "presenters": [
-        "Jeffrey Sai Shang Kham Formen, Presenter",
-        "Christian Wolf"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3819933 - Adding spectator charges to dyes allows for compatibility with small molecule ionic isolation lattices aka SMILEs",
-      "time_location": "11:10am - 11:35am USA / Canada - Eastern -",
-      "presenters": [
-        "Michaela Loveless, Presenter",
-        "Amar Flood"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer, Presider",
-    "Steven Silverman, Organizer, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-27T00:00:00-07:00",
-  "starting_datetime": "2023-03-27T08:00:00-07:00",
-  "starting_time": "08:00:00",
-  "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 27, 2023 | Location: Room 204 (Indiana Convention Center)",
-  "title": "Molecular Recognition & Self-Assembly:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -1861,7 +1858,197 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:40am USA / Canada - Eastern - March 27, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "New Reactions & Methodology:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3812198 - Synergistic catalysis by Brønsted acid/carbodicarbene mimicking frustrated Lewis pair-like reactivity",
+      "time_location": "08:00am - 08:25am USA / Canada - Eastern -",
+      "presenters": [
+        "Yi-Chen Chan, Presenter",
+        "Wen-Ching Chen",
+        "Glenn Yap",
+        "Lili Zhao",
+        "Hsuan-Ying Chen",
+        "Professor Tiow-Gan Ong"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3820355 - Mechanochemistry in small and big molecules",
+      "time_location": "08:25am - 08:50am USA / Canada - Eastern -",
+      "presenters": [
+        "Charles Diesendruck, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3818852 - Immobilized chiral phosphoric acids: Application for regioselective carbohydrate modifications and enantioselective transfer hydrogenation in-flow",
+      "time_location": "08:50am - 09:15am USA / Canada - Eastern -",
+      "presenters": [
+        "Oleksii Zhelavskyi, Presenter",
+        "Paul Zimmerman",
+        "Pavel Nagorny"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3822130 - (Cyclopentadienone)iron carbonyl-catalyzed alcohol oxidations using furfural as a terminal oxidant",
+      "time_location": "09:15am - 09:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Timothy Funk, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "09:40am - 09:55am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3817403 - Microwave assisted one pot green synthesis of potential MK-2 kinase inhibitor aminocyanopyridine and (4-hydroxy)quinoline and its computational studies",
+      "time_location": "09:55am - 10:20am USA / Canada - Eastern -",
+      "presenters": [
+        "Nishant Verma, Presenter",
+        "loveneesh Kumar",
+        "Ramesh Chandra"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3822410 - Sulfoxylate radical anion mediated one-pot, tandem chemoselective reductive cyclization to the synthesis of pyrrole fused N-heterocycles",
+      "time_location": "10:20am - 10:45am USA / Canada - Eastern -",
+      "presenters": [
+        "Ms surabhi panday, Presenter",
+        "Pankaj Gupta",
+        "Shivraj Seth",
+        "Dr. Joydev Laha"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3827663 - Magical metalloporphyrins: Mirror, mirror on the wall; which is the best porphyrin of them all?",
+      "time_location": "10:45am - 11:10am USA / Canada - Eastern -",
+      "presenters": [
+        "Mukund Chorghade, Presenter",
+        "Rachel Bijoy"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer, Presider",
+    "Steven Silverman, Organizer, Presider",
+    "Daniel Ruff, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-27T00:00:00-07:00",
+  "starting_datetime": "2023-03-27T08:00:00-07:00",
+  "starting_time": "08:00:00",
+  "time_location": "08:00am - 11:10am USA / Canada - Eastern - March 27, 2023 | Location: Room 202 (Indiana Convention Center)",
+  "title": "Green Methods & Syntheses:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3811687 - Withdrawn",
+      "time_location": "08:00am - 08:25am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3816634 - EDTA-based lanthanide (III) chelates with cholamide appendages for luminescence detection of capsaicinoids",
+      "time_location": "08:25am - 08:50am USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Christopher Gulgas, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3812510 - Structural diversity in quasiracemic molecular assemblies",
+      "time_location": "08:50am - 09:15am USA / Canada - Eastern -",
+      "presenters": [
+        "Kraig Wheeler, Presenter",
+        "Katelyn Koch",
+        "Ashah Gould",
+        "Katriel Sahlstrom",
+        "Aaron Teo",
+        "Russell Wells",
+        "Diana Schepens"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3827884 - Separation of chiral molecules using subsitutional solid solutions of binol MOFs.",
+      "time_location": "09:15am - 09:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Kyle Langlois, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3818561 - Diverse nature and effects of environment in anion-π complexes of p-benzoquinones",
+      "time_location": "09:40am - 10:05am USA / Canada - Eastern -",
+      "presenters": [
+        "Sergiy Rosokha, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "10:05am - 10:20am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3819239 - Halogens in hydrophobic spaces: What governs their interactions?",
+      "time_location": "10:20am - 10:45am USA / Canada - Eastern -",
+      "presenters": [
+        "Mark Ams, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3819440 - (Pseudo)halogenated quinones enable deconvolution of overlapping spectra for quantitative chirality sensing of amines, amino acids, and amino alcohols via redox switching",
+      "time_location": "10:45am - 11:10am USA / Canada - Eastern -",
+      "presenters": [
+        "Jeffrey Sai Shang Kham Formen, Presenter",
+        "Christian Wolf"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3819933 - Adding spectator charges to dyes allows for compatibility with small molecule ionic isolation lattices aka SMILEs",
+      "time_location": "11:10am - 11:35am USA / Canada - Eastern -",
+      "presenters": [
+        "Michaela Loveless, Presenter",
+        "Amar Flood"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer, Presider",
+    "Steven Silverman, Organizer, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-27T00:00:00-07:00",
+  "starting_datetime": "2023-03-27T08:00:00-07:00",
+  "starting_time": "08:00:00",
+  "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 27, 2023 | Location: Room 204 (Indiana Convention Center)",
+  "title": "Molecular Recognition & Self-Assembly:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -1949,7 +2136,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 27, 2023 | Location: Room 207 (Indiana Convention Center)",
   "title": "Herbert C. Brown Award for Creative Research in Synthetic Methods:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492738/attend"
 },
 {
@@ -2058,7 +2245,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 27, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
   "title": "Biocatalysis Enabled Cascade Processes for a Sustainable Future:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492779/attend"
 },
 {
@@ -2167,7 +2354,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:30am USA / Canada - Eastern - March 27, 2023 | Location: Room 203 (Indiana Convention Center)",
   "title": "Modern Methods in Polymer Chemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -2292,7 +2479,7 @@
   "starting_time": "10:00:00",
   "time_location": "10:00am - 01:20pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Virtual Programming:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496618/attend"
 },
 {
@@ -2317,7 +2504,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Asymmetric Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496306/attend"
 },
 {
@@ -2345,7 +2532,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Biocatalysis and Biologically-Related Processes:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496308/attend"
 },
 {
@@ -2393,7 +2580,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Cross Coupling Reactions:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496312/attend"
 },
 {
@@ -2447,7 +2634,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Flow Chemistry & Continuous Processes:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496317/attend"
 },
 {
@@ -2536,7 +2723,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Green Methods & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496322/attend"
 },
 {
@@ -2575,7 +2762,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Heterocycles & Aromatics:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496330/attend"
 },
 {
@@ -2647,7 +2834,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Metal-Mediated Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496333/attend"
 },
 {
@@ -2672,7 +2859,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Molecular Recognition & Self-Assembly:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496339/attend"
 },
 {
@@ -2729,7 +2916,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "New Reactions & Methodology:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496341/attend"
 },
 {
@@ -2790,7 +2977,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Photocatalysis & Photochemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496347/attend"
 },
 {
@@ -2829,7 +3016,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Physical Organic Chemistry: Calculations, Mechanisms, Photochemistry & High-Energy Species:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496352/attend"
 },
 {
@@ -2888,7 +3075,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Total Synthesis of Complex Molecules:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496355/attend"
 },
 {
@@ -2915,7 +3102,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Diversity in Organic Chemistry: Celebrating Women:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496360/attend"
 },
 {
@@ -2929,7 +3116,7 @@
   "starting_time": "12:30:00",
   "time_location": "12:30pm - 02:00pm USA / Canada - Eastern - March 27, 2023 | Location: Room 137 (Indiana Convention Center)",
   "title": "ORGN Reception - Meet the DOC Executive Committee",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -3017,7 +3204,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 06:00pm USA / Canada - Eastern - March 27, 2023 | Location: Room 207 (Indiana Convention Center)",
   "title": "National Fresenius Award: Symposium in Honor of Todd Hyster:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496438/attend"
 },
 {
@@ -3119,310 +3306,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 27, 2023 | Location: Room 203 (Indiana Convention Center)",
   "title": "Modern Methods in Polymer Chemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3820584 - Click chemistry approach to N-heterocycles",
-      "time_location": "02:00pm - 02:20pm USA / Canada - Eastern -",
-      "presenters": [
-        "Andre Isaacs, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3838586 - Photocatalytic iminyl radical cyclization for the synthesis of quinazolinones",
-      "time_location": "02:20pm - 02:40pm USA / Canada - Eastern -",
-      "presenters": [
-        "Erin E. Gray, Presenter",
-        "Jensen Rocha",
-        "Neissa Usanase",
-        "Hanbich Lee",
-        "Hannah Spencer",
-        "Janeth Sandoval"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3808489 - Materials chemistry with (mostly) undergraduate researchers",
-      "time_location": "02:40pm - 03:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Lawrence Hill, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3826484 - Teaching X-ray crystallography to undergraduates, backwards",
-      "time_location": "03:00pm - 03:20pm USA / Canada - Eastern -",
-      "presenters": [
-        "Ren A Wiscons, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "03:20pm - 03:35pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3817770 - Isocyanide and NHC support cobalt catalysts for olefin dimerization",
-      "time_location": "03:35pm - 03:55pm USA / Canada - Eastern -",
-      "presenters": [
-        "Richard Broene, Presenter",
-        "Michael Harris",
-        "Colleen McAloon",
-        "Julia Morris"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3818113 - Engaging undergraduate students in probing tetrazole chemistry and properties",
-      "time_location": "03:55pm - 04:15pm USA / Canada - Eastern -",
-      "presenters": [
-        "Sundeep Rayat, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3826416 - Making the rainbow: Historical and novel dye synthesis",
-      "time_location": "04:15pm - 04:35pm USA / Canada - Eastern -",
-      "presenters": [
-        "Anne Wilson, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "3828300 - Introducing azelaic and sebacic anhydrides to the anhydride-imine reaction for the synthesis of medium-sized lactams",
-      "time_location": "04:35pm - 04:55pm USA / Canada - Eastern -",
-      "presenters": [
-        "Timothy Beng, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    },
-    {
-      "title": "Panel Discussion",
-      "time_location": "04:55pm - 05:35pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-    }
-  ],
-  "presiders": [
-    "Joseph Reczek, Organizer, Presider",
-    "Kraig Wheeler, Organizer, Presider"
-  ],
-  "session_type": "Session Type: Oral - Hybrid",
-  "starting_date": "2023-03-27T00:00:00-07:00",
-  "starting_datetime": "2023-03-27T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 05:35pm USA / Canada - Eastern - March 27, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
-  "title": "Successful Products and Models of Undergraduate-based Research: Good Science, Better Scientists:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
-},
-{
-  "presentations": [
-    {
-      "title": "3824805 - Cambrex’s approach to process research and development towards metric ton API manufacture",
-      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Michael Tracey, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3826541 - Surfactant micellar and vesicle microenvironments and structures under synthetic organic conditions",
-      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
-      "presenters": [
-        "Hannah Peacock, Presenter",
-        "Suzanne Blum"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3827762 - Chemosynthetic livers: Predict, prepare and prove the structure, activity and toxicity of drug metabolites: New results",
-      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mukund Chorghade, Presenter",
-        "Midhuna Subhash"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3822110 - Slimming the synthetic peptide waste-line",
-      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
-      "presenters": [
-        "Michael Kopach, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3825579 - Withdrawn",
-      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3828977 - Development and investigation of a green multi-component umpolung Biginelli reaction",
-      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
-      "presenters": [
-        "Kendall Jenkins, Presenter",
-        "Michael Wentzel",
-        "Sarah Zingales"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3828966 - Promoting streamlined and green pharmaceutical processes through biocatalysis, process intensification, and continuous flow chemistry",
-      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
-      "presenters": [
-        "Katherine Belecki, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer, Presider",
-    "Steven Silverman, Organizer, Presider",
-    "Ankur Jalan, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-27T00:00:00-07:00",
-  "starting_datetime": "2023-03-27T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 27, 2023 | Location: Room 202 (Indiana Convention Center)",
-  "title": "Green Methods & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3821144 - Distal and proximal ring flips in 2-oxo-p-tert-butyltetramethoxycalix[4]arene: NMR spectroscopic studies of chiral conformers",
-      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jordan Fantini, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3821198 - Versatile and modular anion-anion dimers of vinyl phosphonates with cyanostars and their supramolecular polymers",
-      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
-      "presenters": [
-        "Yusheng Chen, Presenter",
-        "Anastasia Kuvayskaya",
-        "Maren Pink",
-        "Alan Sellinger",
-        "Amar Flood"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3821068 - Unraveling the structure and recognition properties of a hybrid class of receptors called cyclopods",
-      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nabarupa Bhattacharjee, Presenter",
-        "Amar Flood"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3816369 - Chemistry and application of covalent organic frameworks in water harvesting from air",
-      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
-      "presenters": [
-        "Lac Ha Nguyen, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3821341 - Extractive separation of larger anions driven by cyanostar macrocycle and corresponding photo-driven release",
-      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nabarupa Bhattacharjee, Presenter",
-        "Alketa Lutolli",
-        "Amar Flood"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3821320 - Analysis of stimuli-responsive NIR-II nanoparticles for bioimaging applications",
-      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
-      "presenters": [
-        "Sheng Wei Tang, Presenter",
-        "Nicholas Sparks",
-        "Blaine Derbigny",
-        "Anuja Kulkarni",
-        "Dr. Davita L Watkins"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3823346 - Molecular probes for phosphotidylinositides utilizing heteroditopic synthetic receptors with turn-on fluorescence",
-      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
-      "presenters": [
-        "Kasey Clear, Presenter",
-        "Hasan Alsaymary"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3824714 - Hybridization affects the binding affinity and isomer resolution of cyanostar complexes with organo-trifluoroborate anions",
-      "time_location": "05:10pm - 05:35pm USA / Canada - Eastern -",
-      "presenters": [
-        "Zhao Zhang, Presenter",
-        "Edward Sheetz",
-        "Maren Pink",
-        "Amar Flood"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer, Presider",
-    "Steven Silverman, Organizer, Presider",
-    "Kasey Clear, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-27T00:00:00-07:00",
-  "starting_datetime": "2023-03-27T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 05:35pm USA / Canada - Eastern - March 27, 2023 | Location: Room 204 (Indiana Convention Center)",
-  "title": "Molecular Recognition & Self-Assembly:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -3550,7 +3434,570 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:40pm USA / Canada - Eastern - March 27, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "New Reactions & Methodology:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3820584 - Click chemistry approach to N-heterocycles",
+      "time_location": "02:00pm - 02:20pm USA / Canada - Eastern -",
+      "presenters": [
+        "Andre Isaacs, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3838586 - Photocatalytic iminyl radical cyclization for the synthesis of quinazolinones",
+      "time_location": "02:20pm - 02:40pm USA / Canada - Eastern -",
+      "presenters": [
+        "Erin E. Gray, Presenter",
+        "Jensen Rocha",
+        "Neissa Usanase",
+        "Hanbich Lee",
+        "Hannah Spencer",
+        "Janeth Sandoval"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3808489 - Materials chemistry with (mostly) undergraduate researchers",
+      "time_location": "02:40pm - 03:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Lawrence Hill, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3826484 - Teaching X-ray crystallography to undergraduates, backwards",
+      "time_location": "03:00pm - 03:20pm USA / Canada - Eastern -",
+      "presenters": [
+        "Ren A Wiscons, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "03:20pm - 03:35pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3817770 - Isocyanide and NHC support cobalt catalysts for olefin dimerization",
+      "time_location": "03:35pm - 03:55pm USA / Canada - Eastern -",
+      "presenters": [
+        "Richard Broene, Presenter",
+        "Michael Harris",
+        "Colleen McAloon",
+        "Julia Morris"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3818113 - Engaging undergraduate students in probing tetrazole chemistry and properties",
+      "time_location": "03:55pm - 04:15pm USA / Canada - Eastern -",
+      "presenters": [
+        "Sundeep Rayat, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3826416 - Making the rainbow: Historical and novel dye synthesis",
+      "time_location": "04:15pm - 04:35pm USA / Canada - Eastern -",
+      "presenters": [
+        "Anne Wilson, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "3828300 - Introducing azelaic and sebacic anhydrides to the anhydride-imine reaction for the synthesis of medium-sized lactams",
+      "time_location": "04:35pm - 04:55pm USA / Canada - Eastern -",
+      "presenters": [
+        "Timothy Beng, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    },
+    {
+      "title": "Panel Discussion",
+      "time_location": "04:55pm - 05:35pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+    }
+  ],
+  "presiders": [
+    "Joseph Reczek, Organizer, Presider",
+    "Kraig Wheeler, Organizer, Presider"
+  ],
+  "session_type": "Session Type: Oral - Hybrid",
+  "starting_date": "2023-03-27T00:00:00-07:00",
+  "starting_datetime": "2023-03-27T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 05:35pm USA / Canada - Eastern - March 27, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
+  "title": "Successful Products and Models of Undergraduate-based Research: Good Science, Better Scientists:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": "https://acs.digitellinc.com/acs/events/492862/attend"
+},
+{
+  "presentations": [
+    {
+      "title": "3824805 - Cambrex’s approach to process research and development towards metric ton API manufacture",
+      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Michael Tracey, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3826541 - Surfactant micellar and vesicle microenvironments and structures under synthetic organic conditions",
+      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
+      "presenters": [
+        "Hannah Peacock, Presenter",
+        "Suzanne Blum"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3827762 - Chemosynthetic livers: Predict, prepare and prove the structure, activity and toxicity of drug metabolites: New results",
+      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mukund Chorghade, Presenter",
+        "Midhuna Subhash"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3822110 - Slimming the synthetic peptide waste-line",
+      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
+      "presenters": [
+        "Michael Kopach, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3825579 - Withdrawn",
+      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3828977 - Development and investigation of a green multi-component umpolung Biginelli reaction",
+      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
+      "presenters": [
+        "Kendall Jenkins, Presenter",
+        "Michael Wentzel",
+        "Sarah Zingales"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3828966 - Promoting streamlined and green pharmaceutical processes through biocatalysis, process intensification, and continuous flow chemistry",
+      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
+      "presenters": [
+        "Katherine Belecki, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer, Presider",
+    "Steven Silverman, Organizer, Presider",
+    "Ankur Jalan, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-27T00:00:00-07:00",
+  "starting_datetime": "2023-03-27T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 27, 2023 | Location: Room 202 (Indiana Convention Center)",
+  "title": "Green Methods & Syntheses:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3821144 - Distal and proximal ring flips in 2-oxo-p-tert-butyltetramethoxycalix[4]arene: NMR spectroscopic studies of chiral conformers",
+      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jordan Fantini, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3821198 - Versatile and modular anion-anion dimers of vinyl phosphonates with cyanostars and their supramolecular polymers",
+      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
+      "presenters": [
+        "Yusheng Chen, Presenter",
+        "Anastasia Kuvayskaya",
+        "Maren Pink",
+        "Alan Sellinger",
+        "Amar Flood"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3821068 - Unraveling the structure and recognition properties of a hybrid class of receptors called cyclopods",
+      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nabarupa Bhattacharjee, Presenter",
+        "Amar Flood"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3816369 - Chemistry and application of covalent organic frameworks in water harvesting from air",
+      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
+      "presenters": [
+        "Lac Ha Nguyen, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3821341 - Extractive separation of larger anions driven by cyanostar macrocycle and corresponding photo-driven release",
+      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nabarupa Bhattacharjee, Presenter",
+        "Alketa Lutolli",
+        "Amar Flood"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3821320 - Analysis of stimuli-responsive NIR-II nanoparticles for bioimaging applications",
+      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
+      "presenters": [
+        "Sheng Wei Tang, Presenter",
+        "Nicholas Sparks",
+        "Blaine Derbigny",
+        "Anuja Kulkarni",
+        "Dr. Davita L Watkins"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3823346 - Molecular probes for phosphotidylinositides utilizing heteroditopic synthetic receptors with turn-on fluorescence",
+      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
+      "presenters": [
+        "Kasey Clear, Presenter",
+        "Hasan Alsaymary"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3824714 - Hybridization affects the binding affinity and isomer resolution of cyanostar complexes with organo-trifluoroborate anions",
+      "time_location": "05:10pm - 05:35pm USA / Canada - Eastern -",
+      "presenters": [
+        "Zhao Zhang, Presenter",
+        "Edward Sheetz",
+        "Maren Pink",
+        "Amar Flood"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer, Presider",
+    "Steven Silverman, Organizer, Presider",
+    "Kasey Clear, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-27T00:00:00-07:00",
+  "starting_datetime": "2023-03-27T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 05:35pm USA / Canada - Eastern - March 27, 2023 | Location: Room 204 (Indiana Convention Center)",
+  "title": "Molecular Recognition & Self-Assembly:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "Introductory Remarks",
+      "time_location": "08:00am - 08:10am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "3819565 - Photoenzymatic catalysis: Using light to reveal new enzyme functions",
+      "time_location": "08:10am - 08:50am USA / Canada - Eastern -",
+      "presenters": [
+        "Todd Hyster, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "3836306 - New strategies for site-selective and tunable C–H functionalization",
+      "time_location": "08:50am - 09:30am USA / Canada - Eastern -",
+      "presenters": [
+        "Song Lin, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "3843611 - Catalytic, contra-thermodynamic positional isomerization of alkenes",
+      "time_location": "09:30am - 10:10am USA / Canada - Eastern -",
+      "presenters": [
+        "Alison Wendlandt, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "10:10am - 10:25am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "3843572 - Resurrecting unfinished projects from our chemical graveyard",
+      "time_location": "10:25am - 11:05am USA / Canada - Eastern -",
+      "presenters": [
+        "Erik Sorensen, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "Introduction of Awardee",
+      "time_location": "11:05am - 11:10am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    },
+    {
+      "title": "3821978 - Award Address (Elias J Corey Award for Outstanding Original Contribution in Organic Synthesis by a Young Investigator sponsored by the Pfizer Endowment Fund). Organic synthesis away from equilibrium",
+      "time_location": "11:10am - 12:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Robert Knowles, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer",
+    "Steven Silverman, Organizer, Presider"
+  ],
+  "session_type": "Session Type: Oral - Hybrid",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T08:00:00-07:00",
+  "starting_time": "08:00:00",
+  "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 28, 2023 | Location: Room 207 (Indiana Convention Center)",
+  "title": "Elias J. Corey Award for Outstanding Original Contribution in Organic Synthesis by a Young Investigator:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
+},
+{
+  "presentations": [
+    {
+      "title": "Introductory Remarks",
+      "time_location": "08:00am - 08:10am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    },
+    {
+      "title": "3812201 - Withdrawn",
+      "time_location": "08:10am - 08:40am USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    },
+    {
+      "title": "3849240 - New methods for C–F bond formation",
+      "time_location": "08:40am - 09:10am USA / Canada - Eastern -",
+      "presenters": [
+        "Melanie Sanford, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    },
+    {
+      "title": "3811320 - Making experimental work in the process chemistry lab safer: A look at commonly employed and potentially explosive reaction conditions",
+      "time_location": "09:10am - 09:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Suelen Vasquez Cespedes, Presenter",
+        "Dr Megan Cismesia",
+        "Daniel Valco"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    },
+    {
+      "title": "3816750 - Finding the right (reaction) pathway: Career, community, and chemistry",
+      "time_location": "09:40am - 10:10am USA / Canada - Eastern -",
+      "presenters": [
+        "Jessica Kisunzu, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    },
+    {
+      "title": "3821252 - Modular by design: Intersectional mentoring and carbodiimide masks for switchable N-heterocyclic carbene organocatalysis",
+      "time_location": "10:10am - 10:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Le Dung Pham",
+        "Red Smith-Sweetser",
+        "Carolyn Dewey",
+        "Jessica Lamb, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    },
+    {
+      "title": "3811349 - We belong and we inspire: Career perspectives from women scientists in advanced chemistry technologies (ACT) group at AbbVie",
+      "time_location": "10:40am - 11:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Ying Wang, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+    }
+  ],
+  "presiders": [
+    "Meghan Baker, Organizer",
+    "Rebecca Johnson, Organizer, Presider",
+    "Steven Silverman, Organizer"
+  ],
+  "session_type": "Session Type: Oral - Hybrid",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T08:00:00-07:00",
+  "starting_time": "08:00:00",
+  "time_location": "08:00am - 11:40am USA / Canada - Eastern - March 28, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
+  "title": "Diversity in Organic Chemistry: Celebrating Women:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
+},
+{
+  "presentations": [
+    {
+      "title": "3813256 - Continuous manufacturing of tirzepatide using online UHPLC-based PAT: An enabling technology for commercialization of a synthetic peptide",
+      "time_location": "08:00am - 08:20am USA / Canada - Eastern -",
+      "presenters": [
+        "Steve Groskreutz, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3848121 - Monitoring acyl couplings with orthogonal PAT: Temporal data from lab scale to scaleup",
+      "time_location": "08:20am - 08:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Thomas Malig, Presenter",
+        "Di Xu",
+        "Kenji Kurita"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3842661 - Incorporating high-throughput experimentation, graphical analysis and fit-for-purpose kinetic modeling into accessible tools for accelerated drug development",
+      "time_location": "08:40am - 09:00am USA / Canada - Eastern -",
+      "presenters": [
+        "Anna Dunn, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3832000 - Application of image analysis and neural networks to extract information on key crystal attributes",
+      "time_location": "09:00am - 09:20am USA / Canada - Eastern -",
+      "presenters": [
+        "Ayse Eren, Presenter",
+        "Andy Stumpf",
+        "Daniel Zell",
+        "Di Xu",
+        "Thomas Malig"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3834960 - TBD",
+      "time_location": "09:20am - 09:40am USA / Canada - Eastern -",
+      "presenters": [
+        "Carla Luciani, Presenter",
+        "Mary Eccles"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3848124 - Applying online HPLC-MS to the mechanistic investigation of Pd-mediated processes",
+      "time_location": "09:40am - 10:00am USA / Canada - Eastern -",
+      "presenters": [
+        "Isabelle Cai, Presenter",
+        "Lauren Sirois",
+        "Thomas Malig",
+        "Kenji Kurita",
+        "Jason Hein"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3811782 - Online liquid chromatography mass spectrometry to improve process development of solid-phase peptide syntheses",
+      "time_location": "10:00am - 10:20am USA / Canada - Eastern -",
+      "presenters": [
+        "Mark Berglund, Presenter",
+        "Steve Groskreutz",
+        "Gordon Lambertus",
+        "Luke Webster",
+        "Martin Johnson"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Kenji Kurita, Organizer, Presider",
+    "Zhenqi Shi, Organizer, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T08:00:00-07:00",
+  "starting_time": "08:00:00",
+  "time_location": "08:00am - 10:20am USA / Canada - Eastern - March 28, 2023 | Location: Room 203 (Indiana Convention Center)",
+  "title": "Getting More \"Eyes\" on Your Reaction: Advancing PAT for Chemical Reaction Understanding:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -3658,7 +4105,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:35am USA / Canada - Eastern - March 28, 2023 | Location: Room 204 (Indiana Convention Center)",
   "title": "Molecular Recognition & Self-Assembly:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -3788,7 +4235,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 28, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "New Reactions & Methodology:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -3902,267 +4349,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:10am USA / Canada - Eastern - March 28, 2023 | Location: Room 202 (Indiana Convention Center)",
   "title": "Physical Organic Chemistry: Calculations, Mechanisms, Photochemistry & High-Energy Species:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "Introductory Remarks",
-      "time_location": "08:00am - 08:10am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "3819565 - Photoenzymatic catalysis: Using light to reveal new enzyme functions",
-      "time_location": "08:10am - 08:50am USA / Canada - Eastern -",
-      "presenters": [
-        "Todd Hyster, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "3836306 - New strategies for site-selective and tunable C–H functionalization",
-      "time_location": "08:50am - 09:30am USA / Canada - Eastern -",
-      "presenters": [
-        "Song Lin, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "3843611 - Catalytic, contra-thermodynamic positional isomerization of alkenes",
-      "time_location": "09:30am - 10:10am USA / Canada - Eastern -",
-      "presenters": [
-        "Alison Wendlandt, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "10:10am - 10:25am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "3843572 - Resurrecting unfinished projects from our chemical graveyard",
-      "time_location": "10:25am - 11:05am USA / Canada - Eastern -",
-      "presenters": [
-        "Erik Sorensen, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "Introduction of Awardee",
-      "time_location": "11:05am - 11:10am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    },
-    {
-      "title": "3821978 - Award Address (Elias J Corey Award for Outstanding Original Contribution in Organic Synthesis by a Young Investigator sponsored by the Pfizer Endowment Fund). Organic synthesis away from equilibrium",
-      "time_location": "11:10am - 12:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Robert Knowles, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer",
-    "Steven Silverman, Organizer, Presider"
-  ],
-  "session_type": "Session Type: Oral - Hybrid",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T08:00:00-07:00",
-  "starting_time": "08:00:00",
-  "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 28, 2023 | Location: Room 207 (Indiana Convention Center)",
-  "title": "Elias J. Corey Award for Outstanding Original Contribution in Organic Synthesis by a Young Investigator:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": "https://acs.digitellinc.com/acs/events/492712/attend"
-},
-{
-  "presentations": [
-    {
-      "title": "Introductory Remarks",
-      "time_location": "08:00am - 08:10am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    },
-    {
-      "title": "3812201 - Withdrawn",
-      "time_location": "08:10am - 08:40am USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    },
-    {
-      "title": "3849240 - New methods for C–F bond formation",
-      "time_location": "08:40am - 09:10am USA / Canada - Eastern -",
-      "presenters": [
-        "Melanie Sanford, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    },
-    {
-      "title": "3811320 - Making experimental work in the process chemistry lab safer: A look at commonly employed and potentially explosive reaction conditions",
-      "time_location": "09:10am - 09:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Suelen Vasquez Cespedes, Presenter",
-        "Dr Megan Cismesia",
-        "Daniel Valco"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    },
-    {
-      "title": "3816750 - Finding the right (reaction) pathway: Career, community, and chemistry",
-      "time_location": "09:40am - 10:10am USA / Canada - Eastern -",
-      "presenters": [
-        "Jessica Kisunzu, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    },
-    {
-      "title": "3821252 - Modular by design: Intersectional mentoring and carbodiimide masks for switchable N-heterocyclic carbene organocatalysis",
-      "time_location": "10:10am - 10:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Le Dung Pham",
-        "Red Smith-Sweetser",
-        "Carolyn Dewey",
-        "Jessica Lamb, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    },
-    {
-      "title": "3811349 - We belong and we inspire: Career perspectives from women scientists in advanced chemistry technologies (ACT) group at AbbVie",
-      "time_location": "10:40am - 11:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Ying Wang, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-    }
-  ],
-  "presiders": [
-    "Meghan Baker, Organizer",
-    "Rebecca Johnson, Organizer, Presider",
-    "Steven Silverman, Organizer"
-  ],
-  "session_type": "Session Type: Oral - Hybrid",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T08:00:00-07:00",
-  "starting_time": "08:00:00",
-  "time_location": "08:00am - 11:40am USA / Canada - Eastern - March 28, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
-  "title": "Diversity in Organic Chemistry: Celebrating Women:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": "https://acs.digitellinc.com/acs/events/492756/attend"
-},
-{
-  "presentations": [
-    {
-      "title": "3813256 - Continuous manufacturing of tirzepatide using online UHPLC-based PAT: An enabling technology for commercialization of a synthetic peptide",
-      "time_location": "08:00am - 08:20am USA / Canada - Eastern -",
-      "presenters": [
-        "Steve Groskreutz, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3848121 - Monitoring acyl couplings with orthogonal PAT: Temporal data from lab scale to scaleup",
-      "time_location": "08:20am - 08:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Thomas Malig, Presenter",
-        "Di Xu",
-        "Kenji Kurita"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3842661 - Incorporating high-throughput experimentation, graphical analysis and fit-for-purpose kinetic modeling into accessible tools for accelerated drug development",
-      "time_location": "08:40am - 09:00am USA / Canada - Eastern -",
-      "presenters": [
-        "Anna Dunn, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3832000 - Application of image analysis and neural networks to extract information on key crystal attributes",
-      "time_location": "09:00am - 09:20am USA / Canada - Eastern -",
-      "presenters": [
-        "Ayse Eren, Presenter",
-        "Andy Stumpf",
-        "Daniel Zell",
-        "Di Xu",
-        "Thomas Malig"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3834960 - TBD",
-      "time_location": "09:20am - 09:40am USA / Canada - Eastern -",
-      "presenters": [
-        "Carla Luciani, Presenter",
-        "Mary Eccles"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3848124 - Applying online HPLC-MS to the mechanistic investigation of Pd-mediated processes",
-      "time_location": "09:40am - 10:00am USA / Canada - Eastern -",
-      "presenters": [
-        "Isabelle Cai, Presenter",
-        "Lauren Sirois",
-        "Thomas Malig",
-        "Kenji Kurita",
-        "Jason Hein"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3811782 - Online liquid chromatography mass spectrometry to improve process development of solid-phase peptide syntheses",
-      "time_location": "10:00am - 10:20am USA / Canada - Eastern -",
-      "presenters": [
-        "Mark Berglund, Presenter",
-        "Steve Groskreutz",
-        "Gordon Lambertus",
-        "Luke Webster",
-        "Martin Johnson"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Kenji Kurita, Organizer, Presider",
-    "Zhenqi Shi, Organizer, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T08:00:00-07:00",
-  "starting_time": "08:00:00",
-  "time_location": "08:00am - 10:20am USA / Canada - Eastern - March 28, 2023 | Location: Room 203 (Indiana Convention Center)",
-  "title": "Getting More \"Eyes\" on Your Reaction: Advancing PAT for Chemical Reaction Understanding:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -4278,7 +4465,7 @@
   "starting_time": "10:00:00",
   "time_location": "10:00am - 01:20pm USA / Canada - Eastern - March 28, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Virtual Programming:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496629/attend"
 },
 {
@@ -4506,482 +4693,7 @@
   "starting_time": "12:00:00",
   "time_location": "12:00pm - 02:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Diversity in Organic Chemistry: Celebrating Women:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3808538 - Derivatization of sheet edges of few-layer γ-graphyne",
-      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
-      "presenters": [
-        "Claire Bolding, Presenter",
-        "Tejaswini Haraniya",
-        "William Martin",
-        "Valentin Rodionov"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3821434 - C60 as a modular platform for biomedicines",
-      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mark John Siringan, Presenter",
-        "Rohin Biswas, Presenter",
-        "Jianyuan Zhang, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3816945 - Complexation of azobenzene dyes inside cucurbituril[7]",
-      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
-      "presenters": [
-        "Sai Shradha Reddy Kommidi, Presenter",
-        "Bradley D. Smith"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3814744 - Pharmaceutical salts of piroxicam and meloxicam with organic counterions",
-      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
-      "presenters": [
-        "Shan Huang, Presenter",
-        "Dean Venables",
-        "Simon Lawrence"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3821976 - Hydrophillic porphyrin and rylene diimides: Synthesis of organic electronics for biology beyond fluorescence",
-      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jeffrey Gorman, Presenter",
-        "Stephanie Hart",
-        "Torsten John",
-        "Maria Alejandra Castellanos Morales",
-        "Adam Willard",
-        "Gabriela Schlau-Cohen",
-        "Mark Bathe"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3823808 - Supramolecular on-surface self-assembly of low bandgap graphene nanoribbons",
-      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
-      "presenters": [
-        "Boyu Qie, Presenter",
-        "Junmian Zhu",
-        "Raymond Blackwell",
-        "Felix Fischer"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3815766 - Electric molecular motor",
-      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
-      "presenters": [
-        "Long Zhang, Presenter",
-        "James Stoddart"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer, Presider",
-    "Steven Silverman, Organizer, Presider",
-    "Claire Bolding, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 28, 2023 | Location: Room 204 (Indiana Convention Center)",
-  "title": "Carbon Allotropes, Materials, Devices & Switches:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3813930 - Short-chain poly(methyl methacrylate-methacrylic acid) oligomers synthesized in hardened cement paste via electro-polymerization method",
-      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Xi Xie, Presenter",
-        "Henry Cardenas",
-        "Sven Eklund"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3801843 - Electrochemical synthesis of glycosyl fluorides using sulfur(VI) hexafluoride as the fluorinating agent",
-      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
-      "presenters": [
-        "Sungjin Kim, Presenter",
-        "Pavel Nagorny"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3820563 - Cobalt-catalyzed electroreductive functionalization of unactivated alkyl chlorides",
-      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
-      "presenters": [
-        "Samir Al Zubaydi, Presenter",
-        "Immaculata Onuigbo",
-        "Blaise Truesdell",
-        "Christo Sevov"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3823892 - Withdrawn",
-      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3825307 - Electrocatalytic reduction of peroxydisulfate for efficient and selective oxidation of alcohols",
-      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mayank Tanwar, Presenter",
-        "Seyyedamirhossein Hosseini",
-        "Jordyn Janusz",
-        "Andrew Pendergast",
-        "Henry White",
-        "Matthew Neurock"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3826557 - Microelectrolysis in thin layer electrochemical cell: Tool for reaction optimization and high throughput screening",
-      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
-      "presenters": [
-        "Buwanila Punchihewa, Presenter",
-        "Dr Mohammad Rafiee, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3803249 - Withdrawn",
-      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer, Presider",
-    "Steven Silverman, Organizer, Presider",
-    "Sungjin Kim, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 28, 2023 | Location: Room 203 (Indiana Convention Center)",
-  "title": "Electrochemistry in Organic Synthesis:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "Introductory Remarks",
-      "time_location": "02:00pm - 02:10pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "3847613 - Development of novel hydrogen atom transfer (HAT) electrocatalysts for biomass upgrading",
-      "time_location": "02:10pm - 02:50pm USA / Canada - Eastern -",
-      "presenters": [
-        "Corey Stephenson, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "3848657 - Important asymmetric and catalytic transformations for drug development",
-      "time_location": "02:50pm - 03:30pm USA / Canada - Eastern -",
-      "presenters": [
-        "Chris Senanayake, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "3849428 - New cycloadditions of imines and carbonyls",
-      "time_location": "03:30pm - 04:10pm USA / Canada - Eastern -",
-      "presenters": [
-        "Corinna Schindler, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "04:10pm - 04:25pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "3847910 - Intermolecular C—H oxidation for late-stage functionalization",
-      "time_location": "04:25pm - 05:05pm USA / Canada - Eastern -",
-      "presenters": [
-        "Maria-Christina White, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "Introduction of Awardee",
-      "time_location": "05:05pm - 05:10pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    },
-    {
-      "title": "3847579 - Award Address (ACS Award for Creative Work in Synthetic Organic Chemistry sponsored by MilliporeSigma). Strain-release as a driving force in the synthesis of novel heterocyclic scaffolds",
-      "time_location": "05:10pm - 06:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Peter Wipf, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-    }
-  ],
-  "presiders": [
-    "Emily McLaughlin, Organizer",
-    "Steven Silverman, Organizer, Presider",
-    "Angie Angeles, Presider"
-  ],
-  "session_type": "Session Type: Oral - Hybrid",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 06:00pm USA / Canada - Eastern - March 28, 2023 | Location: Room 207 (Indiana Convention Center)",
-  "title": "ACS Award for Creative Work in Synthetic Organic Chemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
-},
-{
-  "presentations": [
-    {
-      "title": "3849420 - High-throughput experimentation to accelerate modality agnostic drug discovery",
-      "time_location": "02:00pm - 02:30pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Iulia I Strambeanu, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    },
-    {
-      "title": "3831575 - Breaking through assumptions: Boron chemistry and rethinking synthetic strategy",
-      "time_location": "02:30pm - 03:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Florence Williams, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    },
-    {
-      "title": "3819821 - Crossing borders, removing boundaries, changing perspective",
-      "time_location": "03:00pm - 03:30pm USA / Canada - Eastern -",
-      "presenters": [
-        "Marjoke Debets, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    },
-    {
-      "title": "3870037 - Development of an ideal manufacturing route to HIF-2α inhibitor MK-6482",
-      "time_location": "03:30pm - 04:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Diane Le, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    },
-    {
-      "title": "3849145 - Stereocontrolled cationic cascades for organic synthesis",
-      "time_location": "04:00pm - 04:30pm USA / Canada - Eastern -",
-      "presenters": [
-        "Alison Frontier, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    },
-    {
-      "title": "3849142 - Reflections on an asymmetric career path",
-      "time_location": "04:30pm - 05:30pm USA / Canada - Eastern -",
-      "presenters": [
-        "Donna Blackmond, Presenter"
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    },
-    {
-      "title": "Women in Chemistry Panel Featuring Session Speakers",
-      "time_location": "05:30pm - 06:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - Hybrid",
-      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-    }
-  ],
-  "presiders": [
-    "Meghan Baker, Organizer, Presider",
-    "Rebecca Johnson, Organizer",
-    "Steven Silverman, Organizer"
-  ],
-  "session_type": "Session Type: Oral - Hybrid",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 06:00pm USA / Canada - Eastern - March 28, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
-  "title": "Diversity in Organic Chemistry: Celebrating Women:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
-},
-{
-  "presentations": [
-    {
-      "title": "Introductory Remarks",
-      "time_location": "02:00pm - 02:05pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3820897 - Upadacitinib: Process development of a JAK1 inhibitor",
-      "time_location": "02:05pm - 02:35pm USA / Canada - Eastern -",
-      "presenters": [
-        "Troy Reynolds, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3811312 - Increasing access to the next generation of life-saving tuberculosis medications through techno-economically guided synthetic process improvements",
-      "time_location": "02:35pm - 03:05pm USA / Canada - Eastern -",
-      "presenters": [
-        "Charlie Shanahan, Presenter",
-        "Ryan Nelson",
-        "Juliana Robey"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3817515 - Process innovation to enable the scalable manufacture of sotorasib",
-      "time_location": "03:05pm - 03:35pm USA / Canada - Eastern -",
-      "presenters": [
-        "Liang Zhang, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "03:35pm - 03:40pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3820924 - Discovery and development of MK-1454, a therapeutic cyclic dinucleotide STING agonist",
-      "time_location": "03:40pm - 04:10pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nastaran Salehi Marzijarani, Presenter",
-        "Eric Phillips",
-        "Andrew Neel",
-        "Cheol Chung",
-        "Peter Maligres",
-        "Yining Ji Chen",
-        "John McIntosh",
-        "Feng Peng",
-        "Jennifer Obligacion",
-        "Ben Turnbull"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3814749 - P(III) vs. P(V):  A P(V) reagent for thiophosphoramidate linkages and application to an asymmetric synthesis of a cyclic dinucleotide STING agonist",
-      "time_location": "04:10pm - 04:40pm USA / Canada - Eastern -",
-      "presenters": [
-        "Michael Schmidt, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Intermission",
-      "time_location": "04:40pm - 04:45pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3804796 - Process improvements for the highly convergent synthesis of a complex small molecule API",
-      "time_location": "04:45pm - 05:15pm USA / Canada - Eastern -",
-      "presenters": [
-        "Adriana Jemison, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "3809363 - Process enablement of COVID-19 oral inhibitor PF-07321332 at unprecedented speed: From mg to MT in 18 months",
-      "time_location": "05:15pm - 05:45pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jared Piper, Presenter"
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    },
-    {
-      "title": "Concluding Remarks",
-      "time_location": "05:45pm - 05:50pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Oral - In-person"
-    }
-  ],
-  "presiders": [
-    "Kevin Cole, Organizer, Presider"
-  ],
-  "session_type": "Session Type: Oral - In-person",
-  "starting_date": "2023-03-28T00:00:00-07:00",
-  "starting_datetime": "2023-03-28T14:00:00-07:00",
-  "starting_time": "14:00:00",
-  "time_location": "02:00pm - 05:50pm USA / Canada - Eastern - March 28, 2023 | Location: Room 202 (Indiana Convention Center)",
-  "title": "Pharmaceutical Process Chemistry: Excellence in Synthetic Route Design:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -5108,7 +4820,482 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:30pm USA / Canada - Eastern - March 28, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "Total Synthesis of Complex Molecules:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3808538 - Derivatization of sheet edges of few-layer γ-graphyne",
+      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
+      "presenters": [
+        "Claire Bolding, Presenter",
+        "Tejaswini Haraniya",
+        "William Martin",
+        "Valentin Rodionov"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3821434 - C60 as a modular platform for biomedicines",
+      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mark John Siringan, Presenter",
+        "Rohin Biswas, Presenter",
+        "Jianyuan Zhang, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3816945 - Complexation of azobenzene dyes inside cucurbituril[7]",
+      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
+      "presenters": [
+        "Sai Shradha Reddy Kommidi, Presenter",
+        "Bradley D. Smith"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3814744 - Pharmaceutical salts of piroxicam and meloxicam with organic counterions",
+      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
+      "presenters": [
+        "Shan Huang, Presenter",
+        "Dean Venables",
+        "Simon Lawrence"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3821976 - Hydrophillic porphyrin and rylene diimides: Synthesis of organic electronics for biology beyond fluorescence",
+      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jeffrey Gorman, Presenter",
+        "Stephanie Hart",
+        "Torsten John",
+        "Maria Alejandra Castellanos Morales",
+        "Adam Willard",
+        "Gabriela Schlau-Cohen",
+        "Mark Bathe"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3823808 - Supramolecular on-surface self-assembly of low bandgap graphene nanoribbons",
+      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
+      "presenters": [
+        "Boyu Qie, Presenter",
+        "Junmian Zhu",
+        "Raymond Blackwell",
+        "Felix Fischer"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3815766 - Electric molecular motor",
+      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
+      "presenters": [
+        "Long Zhang, Presenter",
+        "James Stoddart"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer, Presider",
+    "Steven Silverman, Organizer, Presider",
+    "Claire Bolding, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 28, 2023 | Location: Room 204 (Indiana Convention Center)",
+  "title": "Carbon Allotropes, Materials, Devices & Switches:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3813930 - Short-chain poly(methyl methacrylate-methacrylic acid) oligomers synthesized in hardened cement paste via electro-polymerization method",
+      "time_location": "02:00pm - 02:25pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Xi Xie, Presenter",
+        "Henry Cardenas",
+        "Sven Eklund"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3801843 - Electrochemical synthesis of glycosyl fluorides using sulfur(VI) hexafluoride as the fluorinating agent",
+      "time_location": "02:25pm - 02:50pm USA / Canada - Eastern -",
+      "presenters": [
+        "Sungjin Kim, Presenter",
+        "Pavel Nagorny"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3820563 - Cobalt-catalyzed electroreductive functionalization of unactivated alkyl chlorides",
+      "time_location": "02:50pm - 03:15pm USA / Canada - Eastern -",
+      "presenters": [
+        "Samir Al Zubaydi, Presenter",
+        "Immaculata Onuigbo",
+        "Blaise Truesdell",
+        "Christo Sevov"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3823892 - Withdrawn",
+      "time_location": "03:15pm - 03:40pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "03:40pm - 03:55pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3825307 - Electrocatalytic reduction of peroxydisulfate for efficient and selective oxidation of alcohols",
+      "time_location": "03:55pm - 04:20pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mayank Tanwar, Presenter",
+        "Seyyedamirhossein Hosseini",
+        "Jordyn Janusz",
+        "Andrew Pendergast",
+        "Henry White",
+        "Matthew Neurock"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3826557 - Microelectrolysis in thin layer electrochemical cell: Tool for reaction optimization and high throughput screening",
+      "time_location": "04:20pm - 04:45pm USA / Canada - Eastern -",
+      "presenters": [
+        "Buwanila Punchihewa, Presenter",
+        "Dr Mohammad Rafiee, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3803249 - Withdrawn",
+      "time_location": "04:45pm - 05:10pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer, Presider",
+    "Steven Silverman, Organizer, Presider",
+    "Sungjin Kim, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 28, 2023 | Location: Room 203 (Indiana Convention Center)",
+  "title": "Electrochemistry in Organic Synthesis:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "Introductory Remarks",
+      "time_location": "02:00pm - 02:10pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "3847613 - Development of novel hydrogen atom transfer (HAT) electrocatalysts for biomass upgrading",
+      "time_location": "02:10pm - 02:50pm USA / Canada - Eastern -",
+      "presenters": [
+        "Corey Stephenson, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "3848657 - Important asymmetric and catalytic transformations for drug development",
+      "time_location": "02:50pm - 03:30pm USA / Canada - Eastern -",
+      "presenters": [
+        "Chris Senanayake, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "3849428 - New cycloadditions of imines and carbonyls",
+      "time_location": "03:30pm - 04:10pm USA / Canada - Eastern -",
+      "presenters": [
+        "Corinna Schindler, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "04:10pm - 04:25pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "3847910 - Intermolecular C—H oxidation for late-stage functionalization",
+      "time_location": "04:25pm - 05:05pm USA / Canada - Eastern -",
+      "presenters": [
+        "Maria-Christina White, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "Introduction of Awardee",
+      "time_location": "05:05pm - 05:10pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    },
+    {
+      "title": "3847579 - Award Address (ACS Award for Creative Work in Synthetic Organic Chemistry sponsored by MilliporeSigma). Strain-release as a driving force in the synthesis of novel heterocyclic scaffolds",
+      "time_location": "05:10pm - 06:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Peter Wipf, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+    }
+  ],
+  "presiders": [
+    "Emily McLaughlin, Organizer",
+    "Steven Silverman, Organizer, Presider",
+    "Angie Angeles, Presider"
+  ],
+  "session_type": "Session Type: Oral - Hybrid",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 06:00pm USA / Canada - Eastern - March 28, 2023 | Location: Room 207 (Indiana Convention Center)",
+  "title": "ACS Award for Creative Work in Synthetic Organic Chemistry:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": "https://acs.digitellinc.com/acs/events/492747/attend"
+},
+{
+  "presentations": [
+    {
+      "title": "3849420 - High-throughput experimentation to accelerate modality agnostic drug discovery",
+      "time_location": "02:00pm - 02:30pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Iulia I Strambeanu, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    },
+    {
+      "title": "3831575 - Breaking through assumptions: Boron chemistry and rethinking synthetic strategy",
+      "time_location": "02:30pm - 03:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Florence Williams, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    },
+    {
+      "title": "3819821 - Crossing borders, removing boundaries, changing perspective",
+      "time_location": "03:00pm - 03:30pm USA / Canada - Eastern -",
+      "presenters": [
+        "Marjoke Debets, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    },
+    {
+      "title": "3870037 - Development of an ideal manufacturing route to HIF-2α inhibitor MK-6482",
+      "time_location": "03:30pm - 04:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Diane Le, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    },
+    {
+      "title": "3849145 - Stereocontrolled cationic cascades for organic synthesis",
+      "time_location": "04:00pm - 04:30pm USA / Canada - Eastern -",
+      "presenters": [
+        "Alison Frontier, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    },
+    {
+      "title": "3849142 - Reflections on an asymmetric career path",
+      "time_location": "04:30pm - 05:30pm USA / Canada - Eastern -",
+      "presenters": [
+        "Donna Blackmond, Presenter"
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    },
+    {
+      "title": "Women in Chemistry Panel Featuring Session Speakers",
+      "time_location": "05:30pm - 06:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - Hybrid",
+      "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+    }
+  ],
+  "presiders": [
+    "Meghan Baker, Organizer, Presider",
+    "Rebecca Johnson, Organizer",
+    "Steven Silverman, Organizer"
+  ],
+  "session_type": "Session Type: Oral - Hybrid",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 06:00pm USA / Canada - Eastern - March 28, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
+  "title": "Diversity in Organic Chemistry: Celebrating Women:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": "https://acs.digitellinc.com/acs/events/492764/attend"
+},
+{
+  "presentations": [
+    {
+      "title": "Introductory Remarks",
+      "time_location": "02:00pm - 02:05pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3820897 - Upadacitinib: Process development of a JAK1 inhibitor",
+      "time_location": "02:05pm - 02:35pm USA / Canada - Eastern -",
+      "presenters": [
+        "Troy Reynolds, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3811312 - Increasing access to the next generation of life-saving tuberculosis medications through techno-economically guided synthetic process improvements",
+      "time_location": "02:35pm - 03:05pm USA / Canada - Eastern -",
+      "presenters": [
+        "Charlie Shanahan, Presenter",
+        "Ryan Nelson",
+        "Juliana Robey"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3817515 - Process innovation to enable the scalable manufacture of sotorasib",
+      "time_location": "03:05pm - 03:35pm USA / Canada - Eastern -",
+      "presenters": [
+        "Liang Zhang, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "03:35pm - 03:40pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3820924 - Discovery and development of MK-1454, a therapeutic cyclic dinucleotide STING agonist",
+      "time_location": "03:40pm - 04:10pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nastaran Salehi Marzijarani, Presenter",
+        "Eric Phillips",
+        "Andrew Neel",
+        "Cheol Chung",
+        "Peter Maligres",
+        "Yining Ji Chen",
+        "John McIntosh",
+        "Feng Peng",
+        "Jennifer Obligacion",
+        "Ben Turnbull"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3814749 - P(III) vs. P(V):  A P(V) reagent for thiophosphoramidate linkages and application to an asymmetric synthesis of a cyclic dinucleotide STING agonist",
+      "time_location": "04:10pm - 04:40pm USA / Canada - Eastern -",
+      "presenters": [
+        "Michael Schmidt, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Intermission",
+      "time_location": "04:40pm - 04:45pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3804796 - Process improvements for the highly convergent synthesis of a complex small molecule API",
+      "time_location": "04:45pm - 05:15pm USA / Canada - Eastern -",
+      "presenters": [
+        "Adriana Jemison, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "3809363 - Process enablement of COVID-19 oral inhibitor PF-07321332 at unprecedented speed: From mg to MT in 18 months",
+      "time_location": "05:15pm - 05:45pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jared Piper, Presenter"
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    },
+    {
+      "title": "Concluding Remarks",
+      "time_location": "05:45pm - 05:50pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Oral - In-person"
+    }
+  ],
+  "presiders": [
+    "Kevin Cole, Organizer, Presider"
+  ],
+  "session_type": "Session Type: Oral - In-person",
+  "starting_date": "2023-03-28T00:00:00-07:00",
+  "starting_datetime": "2023-03-28T14:00:00-07:00",
+  "starting_time": "14:00:00",
+  "time_location": "02:00pm - 05:50pm USA / Canada - Eastern - March 28, 2023 | Location: Room 202 (Indiana Convention Center)",
+  "title": "Pharmaceutical Process Chemistry: Excellence in Synthetic Route Design:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -5344,7 +5531,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Molecular Recognition & Self-Assembly:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -5608,7 +5795,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Photocatalysis & Photochemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -5758,7 +5945,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Physical Organic Chemistry: Calculations, Mechanisms, Photochemistry & High-Energy Species:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -5974,7 +6161,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Asymmetric Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -6027,7 +6214,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Carbon Allotropes, Materials, Devices & Switches:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -6094,7 +6281,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 28, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Flow Chemistry & Continuous Processes:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -6199,7 +6386,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:10am USA / Canada - Eastern - March 29, 2023 | Location: Room 203 (Indiana Convention Center)",
   "title": "Nucleic Acids, Carbohydrates, Peptides, and Lipids:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -6289,7 +6476,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:10am USA / Canada - Eastern - March 29, 2023 | Location: Room 202 (Indiana Convention Center)",
   "title": "Photocatalysis & Photochemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -6378,7 +6565,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 12:00pm USA / Canada - Eastern - March 29, 2023 | Location: Room 207 (Indiana Convention Center)",
   "title": "James Flack Norris Award in Physical Organic Chemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492721/attend"
 },
 {
@@ -6497,7 +6684,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:30am USA / Canada - Eastern - March 29, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "Asymmetric Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -6618,7 +6805,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:55am USA / Canada - Eastern - March 29, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
   "title": "The Challenges and Opportunities of Organic Chemistry in Agricultural and Pharmaceutical Sciences:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/493530/attend"
 },
 {
@@ -6721,7 +6908,7 @@
   "starting_time": "10:00:00",
   "time_location": "10:00am - 12:40pm USA / Canada - Eastern - March 29, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Virtual Programming:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/496640/attend"
 },
 {
@@ -6836,7 +7023,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:45pm USA / Canada - Eastern - March 29, 2023 | Location: Sagamore Ballroom 6 (Indiana Convention Center)",
   "title": "Advances in Copper Catalysis for Organic Synthesis:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492840/attend"
 },
 {
@@ -6936,7 +7123,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 06:00pm USA / Canada - Eastern - March 29, 2023 | Location: Room 207 (Indiana Convention Center)",
   "title": "Novel Approaches to Skeletal Editing and Scaffold Hopping:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/492852/attend"
 },
 {
@@ -7068,7 +7255,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:50pm USA / Canada - Eastern - March 29, 2023 | Location: Room 201 (Indiana Convention Center)",
   "title": "Asymmetric Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -7167,7 +7354,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:10pm USA / Canada - Eastern - March 29, 2023 | Location: Room 203 (Indiana Convention Center)",
   "title": "Nucleic Acids, Carbohydrates, Peptides, and Lipids:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -7268,376 +7455,7 @@
   "starting_time": "14:00:00",
   "time_location": "02:00pm - 05:35pm USA / Canada - Eastern - March 29, 2023 | Location: Room 202 (Indiana Convention Center)",
   "title": "Photocatalysis & Photochemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3818428 - Cross-coupling of alkylbisboronic acids and aryl halides | Poster Board #300",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Elizabeth Kraichely, Presenter",
-        "Timothy Barker"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3820044 - Cobalt-catalyzed decarboxylative difluoroalkylation of nitro-arene carboxylates | Poster Board #304",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Ian Smith, Presenter",
-        "Ebbin Joseph",
-        "Jon Tunge"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3820652 - Palladium-catalyzed benzylic C(sp3)–H carbonylative arylation with aryl bromides | Poster Board #302",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Yu Wu, Presenter",
-        "Bowen Hu",
-        "Haoqiang Zhao",
-        "Patrick Walsh"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822528 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3823937 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3826280 - Catalytic decarbonylative biaryl cross-coupling via C–H bond activation | Poster Board #310",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Robert Wolesensky, Presenter",
-        "Brooke Dunnery",
-        "Alexander Bunnell",
-        "Frances Gu",
-        "Melanie Sanford"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3827803 - Assessment of aminoquinline-based tridentate (NNN)-Cu(II) catalysts towards the redox-neutral cross-coupling reaction of anilines with diazo carbonyl compounds | Poster Board #312",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mohsen Teimouri, Presenter",
-        "SELVAM RAJU",
-        "Sean Stokes",
-        "Joseph Emerson"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3827919 - Synthesis of indole derivatives via tandem Sonogashira-cyclization reactions catalyzed by palladium nanoparticles supported on graphene | Poster Board #314",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Katherine Coker, Presenter",
-        "Ali Siamaki"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828341 - Specific catalyst influence on the reaction between 3-(2,4-dibromothiazolyl)-1-phenyl-propenone and tin derivatives | Poster Board #318",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dmytro Tarasenko",
-        "Oleksii Kolomoitsev",
-        "Olexandre Buravov",
-        "Volodymyr Kotliar",
-        "Prof. Dmitriy Volochnyuk",
-        "Dr Sergey Ryabukhin, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828784 - β-Arylation of allylamines | Poster Board #316",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Kendra Shrestha, Presenter",
-        "Dr. Michael Young"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828980 - Multifunctional 2-phosphinoimidazole ligand utilized in optimizing Suzuki-Miyaura and Heck reactions | Poster Board #320",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Alexandra Larson, Presenter",
-        "David Michaelis"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    }
-  ],
-  "presiders": [
-    "Scott Bagley, Organizer",
-    "Emily McLaughlin, Organizer"
-  ],
-  "session_type": "Session Type: Poster - In-person",
-  "starting_date": "2023-03-29T00:00:00-07:00",
-  "starting_datetime": "2023-03-29T19:00:00-07:00",
-  "starting_time": "19:00:00",
-  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
-  "title": "Cross Coupling Reactions:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3814375 - Ring-opening of cyclopropane substrates via alternating current electrolysis | Poster Board #322",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Connor English, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3826289 - Developing cyclopropenium mediators for anodic fluorination reactions | Poster Board #324",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Sabrina Carneiro, Presenter",
-        "Joshua Laffoon",
-        "Melanie Sanford"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3827543 - Voltage-programmable electrocatalysis for chemoselective cross-coupling | Poster Board #328",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nicholle Chew, Presenter",
-        "Jeremy Smith",
-        "Thomas Snaddon"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3827576 - Cobalt-catalyzed electroreductive coupling of unactivated alkyl chlorides | Poster Board #326",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Samir Al Zubaydi, Presenter",
-        "Immaculata Onuigbo",
-        "Blaise Truesdell",
-        "Christo Sevov"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    }
-  ],
-  "presiders": [
-    "Scott Bagley, Organizer",
-    "Emily McLaughlin, Organizer"
-  ],
-  "session_type": "Session Type: Poster - In-person",
-  "starting_date": "2023-03-29T00:00:00-07:00",
-  "starting_datetime": "2023-03-29T19:00:00-07:00",
-  "starting_time": "19:00:00",
-  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
-  "title": "Electrochemistry in Organic Synthesis:",
-  "track": "[ORGN] Division of Organic Chemistry",
-  "zoom_link": null
-},
-{
-  "presentations": [
-    {
-      "title": "3802753 - Cyrene based solvents as a green alternative to improve the efficiency of a reductive homocoupling reaction with substituted pyridines | Poster Board #330",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Daniel Webb, Presenter",
-        "Peng Gao",
-        "Guolin Xu",
-        "Fernando Luengo",
-        "Lyra Christianson",
-        "Jeffery Turner",
-        "Todd Halkoski",
-        "Alicia Rogers",
-        "Leggy Arnold"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3807861 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3808588 - Metal-catalyzed microwave-assisted oxidative degradation of polyisoprene and polyethylene | Poster Board #338",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Cora Handy, Presenter",
-        "Christopher Monceaux",
-        "Kristina Stefaniak"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3812633 - TCFH as a mild, green, non-sensitizing coupling reagent | Poster Board #332",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nathaniel Luis, Presenter",
-        "Kasey Chung, Presenter",
-        "David Vosburg"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3814682 - Practical and scalable synthesis of a glucokinase activator using modified Julia olefination and one-pot difluorination | Poster Board #340",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Masato Komiyama, Presenter",
-        "Hideyoshi Tsuchiya",
-        "Minoru Iwamoto",
-        "Hidetoshi Miyamoto",
-        "Yoshinori Sato"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3815029 - Design and investigations of sustainable end-of-life polymers, furfural derivatives as potential antibiotics, and porphyrin-like macromolecules toward well-defined materials | Poster Board #205",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Kyle E Murphy, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3816069 - Green synthesis of lysophosphatidylcholine containing n-3 polyunsaturated fatty acid by enzyme-mediated esterification | Poster Board #334",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Syeda Sadia Khatoon, Presenter",
-        "Sajid Jahangir",
-        "Yasir Ali"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3819658 - Chromatography-free synthesis of mono DMT derivative of glycols and diols | Poster Board #342",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Ashok Khanal",
-        "Anthony R. Castro, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3819686 - Green synthesis of trityl ether tosylate of glycols and diols | Poster Board #201",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Ashok Khanal",
-        "Mark A Mclachlan II, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3819695 - TLC and LC-MS monitoring chromatography free synthesis of monotosylation of glycols and diols | Poster Board #203",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Dr. Ashok Khanal",
-        "Adamina X. Arias, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822132 - Sustainable, iron-catalyzed alcohol oxidations with a biomass-derived terminal oxidant | Poster Board #207",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Bryn Werley, Presenter",
-        "Cole Springer, Presenter",
-        "Timothy Funk"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3822552 - Convenient free radical reduction of alkyl halides under mechanochemical conditions | Poster Board #209",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Rohesh Silva",
-        "James Mack",
-        "Jaina Hellmann, Presenter",
-        "Katherine Lonergan",
-        "Caroline Flessner"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3823231 - Comparison of microwave-assisted extraction with conventional extraction of cyclotides and preliminary photophysical studies | Poster Board #213",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Jeanne Cooper, Presenter",
-        "Diana Kem, Presenter",
-        "Dr. Neville Forlemu",
-        "Simon Mwongela",
-        "Sairam Tangirala",
-        "Ajay Mallia"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3823505 - Essential oils: Potential therapeutics for SARS-CoV-2 | Poster Board #211",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Nilmi Fernando",
-        "Bianca Vazquez Torres, Presenter",
-        "Matan Chester",
-        "Angela Abraham"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828075 - Efficient synthesis of the unnatural amino acid N-Boc-Adda amino | Poster Board #215",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Mahesh Yadab, Presenter",
-        "Jennifer Stockdill"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828191 - Withdrawn",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        ""
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    },
-    {
-      "title": "3828622 - Ecofriendly five-component cascade reaction en route to spiroindolinepyrazolopyridines | Poster Board #219",
-      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
-      "presenters": [
-        "Judith Anane",
-        "Dr. Debasish Bandyopadhyay, Presenter"
-      ],
-      "session_type": "Session Type: Poster - In-person"
-    }
-  ],
-  "presiders": [
-    "Scott Bagley, Organizer",
-    "Emily McLaughlin, Organizer"
-  ],
-  "session_type": "Session Type: Poster - In-person",
-  "starting_date": "2023-03-29T00:00:00-07:00",
-  "starting_datetime": "2023-03-29T19:00:00-07:00",
-  "starting_time": "19:00:00",
-  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
-  "title": "Green Methods & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -8159,7 +7977,7 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "New Reactions & Methodology:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -8230,7 +8048,376 @@
   "starting_time": "19:00:00",
   "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
   "title": "Nucleic Acids, Carbohydrates, Peptides, and Lipids:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3818428 - Cross-coupling of alkylbisboronic acids and aryl halides | Poster Board #300",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Elizabeth Kraichely, Presenter",
+        "Timothy Barker"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3820044 - Cobalt-catalyzed decarboxylative difluoroalkylation of nitro-arene carboxylates | Poster Board #304",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Ian Smith, Presenter",
+        "Ebbin Joseph",
+        "Jon Tunge"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3820652 - Palladium-catalyzed benzylic C(sp3)–H carbonylative arylation with aryl bromides | Poster Board #302",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Yu Wu, Presenter",
+        "Bowen Hu",
+        "Haoqiang Zhao",
+        "Patrick Walsh"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822528 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3823937 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3826280 - Catalytic decarbonylative biaryl cross-coupling via C–H bond activation | Poster Board #310",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Robert Wolesensky, Presenter",
+        "Brooke Dunnery",
+        "Alexander Bunnell",
+        "Frances Gu",
+        "Melanie Sanford"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3827803 - Assessment of aminoquinline-based tridentate (NNN)-Cu(II) catalysts towards the redox-neutral cross-coupling reaction of anilines with diazo carbonyl compounds | Poster Board #312",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mohsen Teimouri, Presenter",
+        "SELVAM RAJU",
+        "Sean Stokes",
+        "Joseph Emerson"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3827919 - Synthesis of indole derivatives via tandem Sonogashira-cyclization reactions catalyzed by palladium nanoparticles supported on graphene | Poster Board #314",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Katherine Coker, Presenter",
+        "Ali Siamaki"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828341 - Specific catalyst influence on the reaction between 3-(2,4-dibromothiazolyl)-1-phenyl-propenone and tin derivatives | Poster Board #318",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dmytro Tarasenko",
+        "Oleksii Kolomoitsev",
+        "Olexandre Buravov",
+        "Volodymyr Kotliar",
+        "Prof. Dmitriy Volochnyuk",
+        "Dr Sergey Ryabukhin, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828784 - β-Arylation of allylamines | Poster Board #316",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Kendra Shrestha, Presenter",
+        "Dr. Michael Young"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828980 - Multifunctional 2-phosphinoimidazole ligand utilized in optimizing Suzuki-Miyaura and Heck reactions | Poster Board #320",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Alexandra Larson, Presenter",
+        "David Michaelis"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    }
+  ],
+  "presiders": [
+    "Scott Bagley, Organizer",
+    "Emily McLaughlin, Organizer"
+  ],
+  "session_type": "Session Type: Poster - In-person",
+  "starting_date": "2023-03-29T00:00:00-07:00",
+  "starting_datetime": "2023-03-29T19:00:00-07:00",
+  "starting_time": "19:00:00",
+  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
+  "title": "Cross Coupling Reactions:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3814375 - Ring-opening of cyclopropane substrates via alternating current electrolysis | Poster Board #322",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Connor English, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3826289 - Developing cyclopropenium mediators for anodic fluorination reactions | Poster Board #324",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Sabrina Carneiro, Presenter",
+        "Joshua Laffoon",
+        "Melanie Sanford"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3827543 - Voltage-programmable electrocatalysis for chemoselective cross-coupling | Poster Board #328",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nicholle Chew, Presenter",
+        "Jeremy Smith",
+        "Thomas Snaddon"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3827576 - Cobalt-catalyzed electroreductive coupling of unactivated alkyl chlorides | Poster Board #326",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Samir Al Zubaydi, Presenter",
+        "Immaculata Onuigbo",
+        "Blaise Truesdell",
+        "Christo Sevov"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    }
+  ],
+  "presiders": [
+    "Scott Bagley, Organizer",
+    "Emily McLaughlin, Organizer"
+  ],
+  "session_type": "Session Type: Poster - In-person",
+  "starting_date": "2023-03-29T00:00:00-07:00",
+  "starting_datetime": "2023-03-29T19:00:00-07:00",
+  "starting_time": "19:00:00",
+  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
+  "title": "Electrochemistry in Organic Synthesis:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
+  "zoom_link": null
+},
+{
+  "presentations": [
+    {
+      "title": "3802753 - Cyrene based solvents as a green alternative to improve the efficiency of a reductive homocoupling reaction with substituted pyridines | Poster Board #330",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Daniel Webb, Presenter",
+        "Peng Gao",
+        "Guolin Xu",
+        "Fernando Luengo",
+        "Lyra Christianson",
+        "Jeffery Turner",
+        "Todd Halkoski",
+        "Alicia Rogers",
+        "Leggy Arnold"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3807861 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3808588 - Metal-catalyzed microwave-assisted oxidative degradation of polyisoprene and polyethylene | Poster Board #338",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Cora Handy, Presenter",
+        "Christopher Monceaux",
+        "Kristina Stefaniak"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3812633 - TCFH as a mild, green, non-sensitizing coupling reagent | Poster Board #332",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nathaniel Luis, Presenter",
+        "Kasey Chung, Presenter",
+        "David Vosburg"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3814682 - Practical and scalable synthesis of a glucokinase activator using modified Julia olefination and one-pot difluorination | Poster Board #340",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Masato Komiyama, Presenter",
+        "Hideyoshi Tsuchiya",
+        "Minoru Iwamoto",
+        "Hidetoshi Miyamoto",
+        "Yoshinori Sato"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3815029 - Design and investigations of sustainable end-of-life polymers, furfural derivatives as potential antibiotics, and porphyrin-like macromolecules toward well-defined materials | Poster Board #205",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Kyle E Murphy, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3816069 - Green synthesis of lysophosphatidylcholine containing n-3 polyunsaturated fatty acid by enzyme-mediated esterification | Poster Board #334",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Syeda Sadia Khatoon, Presenter",
+        "Sajid Jahangir",
+        "Yasir Ali"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3819658 - Chromatography-free synthesis of mono DMT derivative of glycols and diols | Poster Board #342",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Ashok Khanal",
+        "Anthony R. Castro, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3819686 - Green synthesis of trityl ether tosylate of glycols and diols | Poster Board #201",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Ashok Khanal",
+        "Mark A Mclachlan II, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3819695 - TLC and LC-MS monitoring chromatography free synthesis of monotosylation of glycols and diols | Poster Board #203",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Dr. Ashok Khanal",
+        "Adamina X. Arias, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822132 - Sustainable, iron-catalyzed alcohol oxidations with a biomass-derived terminal oxidant | Poster Board #207",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Bryn Werley, Presenter",
+        "Cole Springer, Presenter",
+        "Timothy Funk"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3822552 - Convenient free radical reduction of alkyl halides under mechanochemical conditions | Poster Board #209",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Rohesh Silva",
+        "James Mack",
+        "Jaina Hellmann, Presenter",
+        "Katherine Lonergan",
+        "Caroline Flessner"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3823231 - Comparison of microwave-assisted extraction with conventional extraction of cyclotides and preliminary photophysical studies | Poster Board #213",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Jeanne Cooper, Presenter",
+        "Diana Kem, Presenter",
+        "Dr. Neville Forlemu",
+        "Simon Mwongela",
+        "Sairam Tangirala",
+        "Ajay Mallia"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3823505 - Essential oils: Potential therapeutics for SARS-CoV-2 | Poster Board #211",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Nilmi Fernando",
+        "Bianca Vazquez Torres, Presenter",
+        "Matan Chester",
+        "Angela Abraham"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828075 - Efficient synthesis of the unnatural amino acid N-Boc-Adda amino | Poster Board #215",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Mahesh Yadab, Presenter",
+        "Jennifer Stockdill"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828191 - Withdrawn",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        ""
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    },
+    {
+      "title": "3828622 - Ecofriendly five-component cascade reaction en route to spiroindolinepyrazolopyridines | Poster Board #219",
+      "time_location": "07:00pm - 09:00pm USA / Canada - Eastern -",
+      "presenters": [
+        "Judith Anane",
+        "Dr. Debasish Bandyopadhyay, Presenter"
+      ],
+      "session_type": "Session Type: Poster - In-person"
+    }
+  ],
+  "presiders": [
+    "Scott Bagley, Organizer",
+    "Emily McLaughlin, Organizer"
+  ],
+  "session_type": "Session Type: Poster - In-person",
+  "starting_date": "2023-03-29T00:00:00-07:00",
+  "starting_datetime": "2023-03-29T19:00:00-07:00",
+  "starting_time": "19:00:00",
+  "time_location": "07:00pm - 09:00pm USA / Canada - Eastern - March 29, 2023 | Location: Hall F-H (Indiana Convention Center)",
+  "title": "Green Methods & Syntheses:",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -8511,7 +8698,7 @@
   "starting_time": "20:00:00",
   "time_location": "08:00pm - 11:55pm USA / Canada - Eastern - March 29, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Virtual Graduate Students Symposium in Asia-Pacific Region on Synthetic Chemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/493439/attend"
 },
 {
@@ -8603,7 +8790,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 10:45am USA / Canada - Eastern - March 30, 2023 | Location: Room 142 (Indiana Convention Center)",
   "title": "Photocatalysis & Photochemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -8686,7 +8873,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 10:45am USA / Canada - Eastern - March 30, 2023 | Location: Room 143 (Indiana Convention Center)",
   "title": "Biocatalysis and Biologically Related Processes:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -8801,7 +8988,7 @@
   "starting_time": "08:00:00",
   "time_location": "08:00am - 11:35am USA / Canada - Eastern - March 30, 2023 | Location: Room 141 (Indiana Convention Center)",
   "title": "Metal-Mediated Reactions & Syntheses:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": null
 },
 {
@@ -9081,7 +9268,7 @@
   "starting_time": "20:00:00",
   "time_location": "08:00pm - 11:50pm USA / Canada - Eastern - March 30, 2023 | Location: Virtual Session (Virtual Only)",
   "title": "Virtual Graduate Students Symposium in Asia-Pacific Region on Synthetic Chemistry:",
-  "track": "[ORGN] Division of Organic Chemistry",
+  "track": "Division: [ORGN] Division of Organic Chemistry",
   "zoom_link": "https://acs.digitellinc.com/acs/events/493466/attend"
 }
 ]
