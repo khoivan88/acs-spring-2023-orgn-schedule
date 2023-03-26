@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Update Session List from ACS Spring 2022 Scheduler and Build New Page
+name: Update Session List from ACS Spring 2023 Scheduler and Build New Page
 
 on:
   #   schedule:
@@ -15,14 +15,16 @@ jobs:
   update-acs-spring2023-orgn-session-list:
     # Scraping with Scrapy absolutely does NOT work on ubuntu
     # runs-on: ubuntu-20.04
-    runs-on: macos-10.15
+    runs-on: macos-12
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
         with:
-          python-version: 3.9
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.      - name: Set up Python 3.10
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
       - name: Cache pip Linux
         uses: actions/cache@v2
         if: startsWith(runner.os, 'Linux')
@@ -64,10 +66,10 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
-          # git commit -m "ci: Automated ACS Spring 2022 ORGN Session List update $(date)" ./src/jobs.csv | exit 0
+          # git commit -m "ci: Automated ACS Spring 2023 ORGN Session List update $(date)" ./src/jobs.csv | exit 0
       - name: Push changes
         # if: github.ref == 'refs/heads/main'
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
