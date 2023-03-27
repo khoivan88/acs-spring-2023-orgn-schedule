@@ -58,7 +58,7 @@ def main():
     # Process scrape file
     df = pd.read_json(THIS_SPIDER_RESULT_FILE)
     # breakpoint()
-    grouped_df = df.groupby(['starting_date', 'am_or_pm'], sort=True, group_keys=True)['starting_date', 'am_or_pm', 'title', 'location', 'session_type'].apply(lambda x: x)
+    grouped_df = df.groupby(['starting_date', 'am_or_pm'], sort=True, group_keys=True)['starting_date', 'am_or_pm', 'title', 'location', 'session_type', 'time_location'].apply(lambda x: x)
     grouped_df.to_csv(SUMMARY_FILE, index=False)
 
 
